@@ -15,13 +15,12 @@ A PDF version can be found <a href="/files/paper1.pdf">here</a>.
 Education
 ======
 * B.A. in Physics and Astrophysics, Harvard University, 2013
-<> * M.S. in Jekyll, GitHub University, 2014
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)
 
-Work experience
+Honors and Awards
 ======
-* Summer 2015: Research Assistant
-  * Github University
+* NSF Graduate Research Fellowship Award (2019)
+* Fre
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
