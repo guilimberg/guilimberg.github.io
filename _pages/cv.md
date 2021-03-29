@@ -54,5 +54,5 @@ Service and Professional Activities
 Outreach
 ======
 * Astrobites Contributing Author (2019 - Present)
-* AAS Astronomy Ambassador (2019 - Present)
+* [AAS Astronomy Ambassador](https://aas.org/education/roster-aas-astronomy-ambassadors) (2019 - Present)
 * Observatory Night Volunteer, CfA (2017 - Present)
