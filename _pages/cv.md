@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A PDF version can be found <a href="/files/paper1.pdf">here</a>.
+A full PDF version can be found <a href="/files/paper1.pdf">here</a>.
 
 
 Education
@@ -17,26 +17,15 @@ Education
 * B.A. in Physics and Astrophysics, Harvard University, 2013
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)
 
-Honors and Awards
+Selected Honors and Awards
 ======
-* NSF Graduate Research Fellowship Award (2019)
-* Fre
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* NSF Graduate Research Fellowship (2019)
+* Leo Goldberg Prize in Astronomy, Harvard University (2017)
+* Thomas Temple Hoopes Prize, Harvard University (2017)
+* Frederick Tarantino Memorial Scholarship Award, Universities Space Research Assoc. (2016)
+* Harvard College PRISE Research Fellowship (2016)
+* Detur Book Prize, Harvard University (2014)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -56,6 +45,14 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Professional Activities
 ======
-* Currently signed in to 43 different slack teams
+* Course Coordinator, Beacon Hill Seminar (2021 - Present)
+* Referee: A&A, ApJ, ApJS (2018 - Present)
+* Junior Member, American Astronomical Society (2017 - Present)
+
+Outreach
+======
+* Astrobites Contributing Author (2019 - Present)
+* AAS Astronomy Ambassador (2019 - Present)
+* Observatory Night Volunteer, CfA (2017 - Present)
