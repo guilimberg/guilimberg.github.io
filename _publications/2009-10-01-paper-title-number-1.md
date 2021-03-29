@@ -11,4 +11,4 @@ A survey of carbon chain molecules toward 16 deeply embedded (Class 0/I) low-mas
 
 Find the paper at [ApJ](https://iopscience.iop.org/article/10.3847/1538-4357/aacf9d) or on [arXiv](https://arxiv.org/abs/1807.05231).
 
-Citation: 'Law, C. J. <i>et al</i> 2018 <i>ApJ</i> 863 88.'
+Citation: '**Law, C. J.**, Öberg, K. I., Bergner, J. B., Graninger, D  2018 <i>ApJ</i> 863 88.'
