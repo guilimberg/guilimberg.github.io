@@ -1,15 +1,19 @@
 ---
-layout: archive
-title: "Outreach"
+permalink: /Research/
+title: "Research"
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+## Locations of key files/directories
+
+* Basic config options: _config.yml
+* Top navigation bar config: _data/navigation.yml
+* Single pages: _pages/
+* Collections of pages are .md or .html files in:
+  * _publications/
+  * _portfolio/
+  * _posts/
+  * _teaching/
+  * _talks/
+* Footer: _includes/footer.html
+* Static files (like PDFs): /files/
+* Profile image (can set in _config.yml): images/profile.png
