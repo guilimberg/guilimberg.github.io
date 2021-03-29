@@ -6,10 +6,9 @@ excerpt: 'small descr.'
 date: 2018-08-13
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/aacf9d'
-<!--- Citation:  --->
----
 Citation: 'Law, C. J. <i>et al</i> 2018 <i>ApJ</i> 863 88.'
+---
 
-full description...
+A survey of carbon chain molecules toward 16 deeply embedded (Class 0/I) low-mass protostars observed with the IRAM 30 m telescope.
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
