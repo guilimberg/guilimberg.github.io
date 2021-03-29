@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+PDF: <a href="/files/paper1.pdf">ok</a>
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Physics and Astrophysics, Harvard University, 2013
+<> * M.S. in Jekyll, GitHub University, 2014
+* Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)
 
 Work experience
 ======
