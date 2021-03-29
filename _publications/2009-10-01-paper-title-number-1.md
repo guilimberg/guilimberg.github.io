@@ -6,8 +6,10 @@ excerpt: 'small descr.'
 date: 2018-08-13
 venue: 'The Astrophysical Journal'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/aacf9d'
-citation: 'Charles J. Law <i>et al</i> 2018 <i>ApJ</i> 863 88.'
+<!--- Citation:  --->
 ---
+Citation: 'Law, C. J. <i>et al</i> 2018 <i>ApJ</i> 863 88.'
+
 full description...
 
 <!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
