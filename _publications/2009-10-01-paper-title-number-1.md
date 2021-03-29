@@ -10,4 +10,4 @@ citation: 'Charles J. Law _et al_ 2018 _ApJ_ 863 88.'
 ---
 full description...
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+<!--- [Download paper here](http://academicpages.github.io/files/paper1.pdf) --->
