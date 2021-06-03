@@ -34,9 +34,9 @@ Publications
 A full listing of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg).
 
 <ol>
-  <li>Paper 1</li>
-  <li>Paper 2</li>
-  <li>Paper 3</li>
+  <li>Law, C. J., Zhang, Q., Öberg, K. I., Galván-Madrid, R., Keto, E., Liu, H., Ho, P. T. P., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
+  <li>Law, C. J., Milisavljevic, D., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
+  <li>Law, C. J., Zhang, Q., Ricci, L., Petitpas, G., M. J. Jiménez-Donaire, Ueda, J., Lu, X., Dunham, M. M. 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
 </ol>
 
 <!-- <ul>{% for post in site.publications %}
