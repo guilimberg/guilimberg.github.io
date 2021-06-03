@@ -61,8 +61,13 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
+* TF, Interstellar Medium and Star Formation (AY203). Harvard University. Spring 2021  
+* TF, Introduction to Scientific Programming in Python (CSCI P-14320).
+* TF, Stellar and Planetary Astronomy (AY16). Harvard University. 
+* TF, Physics I (Lab): Mechanics, Elasticity, Fluids, and Diffusion (PHYS E-1axl).
+  
+<!--   <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}-->
   {% endfor %}</ul>
   
 Service and Professional Activities
