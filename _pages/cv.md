@@ -15,6 +15,7 @@ A full PDF version can be found <a href="/files/paper1.pdf">here</a>.
 Education
 ======
 * B.A. in Physics and Astrophysics, Harvard University, 2013
+* M.A. in Astronomy and Astrophysics, Harvard University, 2021
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)
 
 Selected Honors and Awards
@@ -22,6 +23,7 @@ Selected Honors and Awards
 * NSF Graduate Research Fellowship (2019)
 * Leo Goldberg Prize in Astronomy, Harvard University (2017)
 * Thomas Temple Hoopes Prize, Harvard University (2017)
+* Phi Beta Kappa, Harvard University (2017)
 * Frederick Tarantino Memorial Scholarship Award, Universities Space Research Assoc. (2016)
 * Harvard College PRISE Research Fellowship (2016)
 * Detur Book Prize, Harvard University (2014)
@@ -29,9 +31,17 @@ Selected Honors and Awards
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+A full listing of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg).
+
+<ol>
+  <li>Paper 1</li>
+  <li>Paper 2</li>
+  <li>Paper 3</li>
+</ol>
+
+<!-- <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Talks
 ======
