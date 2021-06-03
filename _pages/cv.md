@@ -77,8 +77,8 @@ Teaching
 * TF, Physics I (Lab): Mechanics, Elasticity, Fluids, and Diffusion (PHYS E-1axl). Harvard Extension School. Fall 2017.
   
 <!--   <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}-->
-  {% endfor %}</ul>
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul> -->
   
 Service and Professional Activities
 ======
