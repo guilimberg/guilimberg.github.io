@@ -71,9 +71,9 @@ Selected Talks
   
 Teaching
 ======
-* TF, Interstellar Medium and Star Formation (AY203). Harvard University. Spring 2021  
-* TF, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2019, 2020
-* TF, Stellar and Planetary Astronomy (AY16). Harvard University. 
+* TF, Interstellar Medium and Star Formation (AY203). Harvard University. Spring 2021.
+* TF, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2019, 2020.
+* TF, Stellar and Planetary Astronomy (AY16). Harvard University.  Spring 2020.
 * TF, Physics I (Lab): Mechanics, Elasticity, Fluids, and Diffusion (PHYS E-1axl). Harvard Extension School. Fall 2017.
   
 <!--   <ul>{% for post in site.teaching %}
