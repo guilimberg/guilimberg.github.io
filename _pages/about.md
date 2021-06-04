@@ -1,6 +1,6 @@
 ---
 permalink: /
-<!--- title: "CHARLES J. LAW - ASTRONOMER, CENTER FOR ASTROPHYSICS | HARVARD & SMITHSONIAN" --->
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
