@@ -71,6 +71,7 @@ Selected Talks
   
 Teaching
 ======
+* Co-instructor, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2021.
 * TF, Interstellar Medium and Star Formation (AY203). Harvard University. Spring 2021.
 * TF, Introduction to Scientific Programming in Python (CSCI P-14320). Harvard Summer School, Pre-College Program. Summer 2019, 2020.
 * TF, Stellar and Planetary Astronomy (AY16). Harvard University.  Spring 2020.
