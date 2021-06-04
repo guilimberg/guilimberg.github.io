@@ -86,7 +86,7 @@ author:
   location         : "CfA | Harvard & Smithsonian"
   employer         : "Cambridge, MA, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
   email            : "charles.law@cfa.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
