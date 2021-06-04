@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "CHARLES J. LAW - ASTRONOMER, CENTER FOR ASTROPHYSICS | HARVARD & SMITHSONIAN"
+<!--- title: "CHARLES J. LAW - ASTRONOMER, CENTER FOR ASTROPHYSICS | HARVARD & SMITHSONIAN" --->
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-A data-driven personal website
+CHARLES J. LAW - ASTRONOMER, CENTER FOR ASTROPHYSICS | HARVARD & SMITHSONIAN
 ======
 I am a 3rd-year NSF Graduate Research Fellow at Harvard Univeristy and the Center for Astrophysics | Harvard & Smithsonian, working with Karin Öberg and Qizhou Zhang. I received my B.A. in physics and astronomy from Harvard College in May 2017. My research focues on observations of chemical complexity during star and planet formation. I use high spatial resolution observations from (sub)mm interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA) and the Submillimeter Array (SMA) to characterize the chemical environments in which young planets are forming.
 
