@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version can be found <a href="/files/paper1.pdf">here</a>.
+A full PDF version can be found <a href="/files/Law_CV_Full.pdf">here</a>.
 
 
 Education
