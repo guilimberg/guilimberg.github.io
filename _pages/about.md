@@ -16,9 +16,10 @@ Some of my research highlights include:
 
 <ul>
   <li>Mapping the temperature and column densities of complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
-  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it [here](http://www.physics.purdue.edu/kaboom/n132d-anim.mp4)!)</li>
-  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it here!)</li>
+  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it [here](http://www.physics.purdue.edu/kaboom/n132d-anim.mp4) and in a VR environment [here](https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC)!)</li>
+  <li>Systematic characterization of carbon chain molecules in embedded, low-mass protostars</li>
 </ul> 
+
 
 Contact Info
 ------
