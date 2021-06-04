@@ -15,10 +15,10 @@ I am a 3rd-year NSF Graduate Research Fellow at Harvard University and the Cente
 Some of my research highlights include:
 
 <ul>
-  <li>Mapping the temperature and column densities of complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
+  <li>Mapping complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
   <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4">here</a>, or in a VR environment  <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC">here)</a></li>
-  <li>Systematic characterization of carbon chain molecules in embedded, low-mass protostars</li>
-  <li>An SMA continuum survey of circumstellar disks in the Serpens star-forming region</li>  
+  <li>Systematic characterization of carbon chain molecules in a large sample of embedded, low-mass protostars</li>
+  <li>SMA continuum survey of circumstellar disks in the Serpens star-forming region</li>  
 </ul> 
 
 
