@@ -15,8 +15,9 @@ I am a 3rd-year NSF Graduate Research Fellow at Harvard Univeristy and the Cente
 Some of my research highlights include:
 
 <ul>
-  <li>Research 1</li>
-  <li>Research 2</li>
+  <li>Mapping the temperature and column densities of complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
+  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it [here](http://www.physics.purdue.edu/kaboom/n132d-anim.mp4)!)</li>
+  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it here!)</li>
 </ul> 
 
 Contact Info
