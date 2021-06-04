@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Charles J Law - Astronomer, CfA | Harvard and Smithsonian"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
