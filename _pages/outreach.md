@@ -7,6 +7,12 @@ redirect_from:
   - /outreach.html
 ---
 
+<style>
+img {
+  float: left;
+}
+</style>
+
 <h2>Chemical substructures in protoplanetary disks</h2>
 
 <p><img src="https://claw-astro.github.io/images/Serpens.png" alt="Serpens disks" style="max-width:30%;margin-right:15px;"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
