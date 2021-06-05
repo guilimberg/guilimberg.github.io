@@ -31,7 +31,7 @@ Selected Honors and Awards
 
 Publications
 ======
-A full listing of my publications can be found on [ADS](https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg).
+A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
@@ -89,6 +89,6 @@ Service and Professional Activities
 
 Outreach
 ======
-* [Astrobites](https://astrobites.org/author/claw/) Contributing Author (2019 - Present)
-* [AAS Astronomy Ambassador](https://aas.org/education/roster-aas-astronomy-ambassadors) (2019 - Present)
-* [Observatory Night](https://pweb.cfa.harvard.edu/events/public-events) Volunteer, CfA (2017 - Present)
+* <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> Contributing Author (2019 - Present)
+* <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
+* <a href="https://pweb.cfa.harvard.edu/events/public-events" style="text-decoration:none">Observatory Night</a> Volunteer, CfA (2017 - Present)
