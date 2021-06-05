@@ -4,7 +4,7 @@ title: "Outreach"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /outreach.html
 ---
 
 <h2>Chemical substructures in protoplanetary disks</h2>
