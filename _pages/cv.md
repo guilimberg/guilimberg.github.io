@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version can be found <a href="https://github.com/claw-astro/claw-astro.github.io/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>.
+A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>.
 
 
 Education
