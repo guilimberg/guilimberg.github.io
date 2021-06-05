@@ -16,7 +16,7 @@ main:
   #  url: /portfolio/
         
   - title: "Outreach"
-    url: /markdown/
+    url: /outreach/
     
   - title: "CV"
     url: /cv/
