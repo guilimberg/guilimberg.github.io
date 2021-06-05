@@ -17,3 +17,13 @@ title: "Research"
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
+
+
+<div style="display:inline-block;vertical-align:top;">
+    <img src="images/profile.png" alt="img"/>
+</div>
+<div style="display:inline-block;">
+    <div>Email</div>
+    <div>Gender</div>
+    <div>Phoner</div>
+</div>
