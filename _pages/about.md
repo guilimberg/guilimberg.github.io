@@ -16,7 +16,7 @@ Some of my research highlights include:
 
 <ul>
   <li>Mapping complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
-  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4">here</a>, or in a VR environment <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC">here)</a></li>
+  <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4" style="text-decoration: none">here</a>, or in a VR environment <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC" style="text-decoration: none">here)</a></li>
   <li>Systematic characterization of carbon chain molecules in a large sample of embedded, low-mass protostars</li>
   <li>SMA continuum survey of circumstellar disks in the Serpens star-forming region</li>  
 </ul> 
@@ -24,7 +24,7 @@ Some of my research highlights include:
 
 Contact Info
 ------
-A full PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf">here</a>. You can contact me at charles.law@cfa.harvard.edu or (724) 493-0763. 
+A full PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>. You can contact me at charles.law@cfa.harvard.edu or (724) 493-0763. 
 
 <!---For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
