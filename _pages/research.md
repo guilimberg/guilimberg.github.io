@@ -20,7 +20,7 @@ title: "Research"
 
 
 <div style="display:inline-block;vertical-align:top;">
-    <img src="images/profile.png" alt="img"/>
+    <img src="images/500x300.png" alt="img"/>
 </div>
 <div style="display:inline-block;">
     <div>Email</div>
