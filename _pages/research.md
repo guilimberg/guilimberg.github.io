@@ -3,7 +3,7 @@ permalink: /research/
 title: "Research"
 ---
 
-## Locations of key files/directories
+<!---## Locations of key files/directories
 
 * Basic config options: _config.yml
 * Top navigation bar config: _data/navigation.yml
@@ -16,7 +16,7 @@ title: "Research"
   * _talks/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
+* Profile image (can set in _config.yml): images/profile.png -->
 
 <style>
 img {
