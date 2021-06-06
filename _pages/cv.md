@@ -16,12 +16,12 @@ Education
 ======
 * B.A. in Physics and Astrophysics, Harvard University, 2013
 * M.A. in Astronomy and Astrophysics, Harvard University, 2021
-* Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)<br>        <I>Advisor: Karin I. Öberg</I> 
+* Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - Present<br>        <I>Advisor: Karin I. Öberg</I> 
 
 
 Selected Honors and Awards
 ======
-* NSF Graduate Research Fellowship (2019)
+* NSF Graduate Research Fellowship (2019 - Present)
 * Leo Goldberg Prize in Astronomy, Harvard University (2017)
 * Thomas Temple Hoopes Prize, Harvard University (2017)
 * Phi Beta Kappa, Harvard University (2017)
