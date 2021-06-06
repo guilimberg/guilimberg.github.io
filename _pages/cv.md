@@ -17,6 +17,8 @@ Education
 * B.A. in Physics and Astrophysics, Harvard University, 2013
 * M.A. in Astronomy and Astrophysics, Harvard University, 2021
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2023 (expected)
+<BLOCKQUOTE> Advisor: Karin I. Öberg 
+</BLOCKQUOTE>
 
 Selected Honors and Awards
 ======
