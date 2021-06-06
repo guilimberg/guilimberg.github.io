@@ -24,14 +24,14 @@ Some of my research highlights include:
 
 Contact Info
 ------
-A full listing of my publications is available on <a href="https://ui.adsabs.harvard.edu/public-libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration: none">ADS</a> and a PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>.
-<br>
+A PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf" style="text-decoration: none">here</a> and a list of my publications on <a href="https://ui.adsabs.harvard.edu/public-libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration: none">ADS</a> and
+<br> <br>
 You can contact me at:
-<br>
+<br> <br>
 charles.law@cfa.harvard.edu
 <br>
 +1 (724) 493-0763
-<br>
+<br> <br>
 Center for Astrophysics | Harvard & Smithsonian
 <br>
 60 Garden Street, MS-10
