@@ -24,9 +24,7 @@ Some of my research highlights include:
 
 Contact Info
 ------
-A PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf" style="text-decoration: none">here</a> and a list of my publications on <a href="https://ui.adsabs.harvard.edu/public-libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration: none">ADS</a> and
-<br> <br>
-You can contact me at:
+A PDF version of my CV can be found <a href="/files/Law_CV_Full.pdf" style="text-decoration: none">here</a> and a full listing of my publications is available on <a href="https://ui.adsabs.harvard.edu/public-libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration: none">ADS</a>. You can contact me at:
 <br> <br>
 charles.law@cfa.harvard.edu
 <br>
