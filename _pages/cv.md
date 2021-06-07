@@ -14,7 +14,7 @@ A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_
 
 Education
 ======
-* B.A. in Physics and Astrophysics, Harvard University, 2013
+* B.A. in Physics and Astrophysics, Harvard University, 2017
 * M.A. in Astronomy and Astrophysics, Harvard University, 2021
 * Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - Present<br>        <I>Advisor: Karin I. Öberg</I> 
 
