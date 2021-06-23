@@ -10,14 +10,14 @@ redirect_from:
 
 Astronomer at the Center for Astrophysics | Harvard and Smithsonian
 ------
-I am a 3rd-year NSF Graduate Research Fellow at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a>. I received my B.A. in physics and astronomy from Harvard College in May 2017. My research focuses on observations of chemical complexity during star and planet formation. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA) and the Submillimeter Array (SMA) to characterize the chemical environments in which young planets are forming.
+I am a 4th-year NSF Graduate Research Fellow at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a>. I received my B.A. in physics and astronomy from Harvard College in May 2017. My research focuses on observations of chemical complexity during star and planet formation. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA) and the Submillimeter Array (SMA) to characterize the chemical environments in which young planets are forming.
 
 Some of my research highlights include:
 
 <ul>
   <li>Mapping complex organic molecules in the massive star-forming region G10.6-0.4 at subarcsecond resolution</li>
   <li>Creation of a 3D kinematic reconstruction of the oxygen-rich supernova remnant N132D (see it <a href="http://www.physics.purdue.edu/kaboom/n132d-anim.mp4" style="text-decoration: none">here</a>, or in a VR environment <a href="https://aas237-aas.ipostersessions.com/Default.aspx?s=AE-C0-00-48-D1-0F-E4-BE-FD-08-90-89-FD-CB-AC-DC" style="text-decoration: none">here)</a></li>
-  <li>Systematic characterization of carbon chain molecules in a large sample of embedded, low-mass protostars</li>
+  <li>Survey of carbon chain molecules in a large sample of embedded, low-mass protostars</li>
   <li>SMA continuum survey of circumstellar disks in the Serpens star-forming region</li>  
 </ul> 
 
