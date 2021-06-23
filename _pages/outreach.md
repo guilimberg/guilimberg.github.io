@@ -19,7 +19,7 @@ Selected as an AAS Astronomy Ambassador...
 <h2>Beacon Hill Seminar</h2> Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis
 
 
-<h2>Astrobites</h2> Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis
+<h2>Astrobites</h2> I am a current member of the Astrobites collaboration and was an active, on-rotation author and editor from 2018-2020. Each month, I wrote a summary article about a recently-published astronomy paper on arXiv, translating the scientific and technical jargon to a more accessible verison aimed for the general public and undergraduate students. A full listing of my Astrobites posts can be found <a href="https://astrobites.org/author/claw/" style="text-decoration: none">here</a>, three of which have been featured on <a href="https://aasnova.org/?s=charles+law+harvard" style="text-decoration: none">AAS Nova</a>.
 
 
 
