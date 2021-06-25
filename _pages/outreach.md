@@ -12,12 +12,12 @@ I am deeply involved in promoting science communication and increasing engagemen
 
 <h2>Increasing Access and Student Engagement</h2>
 
-<p style="text-align:center;max-width:45%;margin-left:25px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
+<p style="text-align:center;max-width:50%;margin-left:25px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
 </p>
 <p> Generating enthusiasm for astronomy and science is an incredibly important aspect of outreach. With this aim in mind, I often speak to younger students to introduce them to the most exciting aspects of modern astronomy. Particularly memorable experiences included a hands-on activity I designed as part of the <a href="https://projects.iq.harvard.edu/shrimp/lectures" style="text-decoration: none">Science Research Mentoring Program</a> at the Cambridge Rindge and Latin School and as a Seminar Leader for the <a href="https://hauscr.org/hsylc" style="text-decoration: none">Harvard Summit for Young Leaders in China</a>, where I developed and led a 2-week astronomy course on star and planet formation in Shanghai.</p>
 
 
-<p style="text-align:center;max-width:45%;margin-right:25px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Flipped_Science_Fair.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Flipped_Science_Fair.png" data-api-returntype="File" /><br /><span style="font-size: small;">Flipped Science Fair, JFK Middle School</span>
+<p style="text-align:center;max-width:50%;margin-right:25px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Flipped_Science_Fair.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Flipped_Science_Fair.png" data-api-returntype="File" /><br /><span style="font-size: small;">Flipped Science Fair, JFK Middle School</span>
 </p>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</p>
 
