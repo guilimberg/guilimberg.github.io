@@ -7,18 +7,18 @@ redirect_from:
   - /outreach.html
 ---
 
-Selected as an AAS Astronomy Ambassador...
+I am deeply interested in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an AAS Astronomy Ambassador...
 
 <h2>Increasing Access and Student Engagement</h2>
 
 <p style="text-align:center;max-width:45%;margin-left:15px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
 </p>
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis.</p>
 
 
 <p style="text-align:center;max-width:45%;margin-right:15px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Flipped_Science_Fair.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Flipped_Science_Fair.png" data-api-returntype="File" /><br /><span style="font-size: small;">Flipped Science Fair, JFK Middle School</span>
 </p>
-<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
+<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis.</p>
 
 
 <h2>Beacon Hill Seminar</h2> I serve as a course coordinator for the "Unveiling the Cosmos" weekly seminar for the Beacon Hill Seminars organization, where speakers from the Center for Astrophysics introduce cutting-edge astrophysical topics to continuing education learners. The course was recently featured in a local community <a href="https://www.wickedlocal.com/story/cambridge-chronicle-tab/2021/05/07/harvard-smithsonian-center-makes-impact-outreach-lifelong-learners/4995959001/" style="text-decoration: none">newspaper</a>.
