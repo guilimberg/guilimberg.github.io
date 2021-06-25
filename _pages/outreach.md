@@ -7,7 +7,7 @@ redirect_from:
   - /outreach.html
 ---
 
-I am deeply interested in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration: none">AAS Astronomy Ambassador</a>. A few of the activities that are important to me are briefly described below.  
+I am deeply involved in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration: none">AAS Astronomy Ambassador</a>. A few of the activities that are important to me are briefly described below.  
 
 
 <h2>Increasing Access and Student Engagement</h2>
