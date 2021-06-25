@@ -21,6 +21,7 @@ I am deeply involved in promoting science communication and increasing engagemen
 </p>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</p>
 
+<p> </p>
 
 <h2>Beacon Hill Seminars</h2> I serve as a course coordinator for the "<a href="https://beaconhillseminars.org/events/spring-2021-courses/item/376-unveiling-the-cosmos" style="text-decoration: none">Unveiling the Cosmos</a>" weekly seminar for the <a href="https://beaconhillseminars.org/" style="text-decoration: none">Beacon Hill Seminars</a> organization, where we recruit speakers from the Center for Astrophysics to introduce cutting-edge astrophysical topics to continuing education learners. The course was recently featured in a local community <a href="https://www.wickedlocal.com/story/cambridge-chronicle-tab/2021/05/07/harvard-smithsonian-center-makes-impact-outreach-lifelong-learners/4995959001/" style="text-decoration: none">newspaper</a>.
 
