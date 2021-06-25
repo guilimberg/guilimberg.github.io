@@ -11,8 +11,8 @@ Selected as an AAS Astronomy Ambassador...
 
 <h2>Increasing Access and Student Engagement</h2>
 
-<p style="text-align:center;max-width:65%;margin-right:15px;padding-bottom:-20px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/CH3OH_G10p6.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/CH3OH_G10p6.png" data-api-returntype="File" /><br /><span style="font-size: small;">Complex organic molecules in G10.6 (Law+21)</span>
-<!--- <p><img src="https://claw-astro.github.io/images/G10p6_Ncol.png" alt="G10.6" style="max-width:75%;margin-right:15px;"><span style="font-size: small;">TYPE YOUR CAPTION HERE</span> ---></p>
+<p style="text-align:center;max-width:65%;margin-right:15px;padding-bottom:-20px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">Talking about star formation at ...</span>
+</p>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis. Donec vitae dui eget tellus gravida venenatis. Integer fringilla congue eros non fermentum. Sed dapibus pulvinar nibh tempor porta. Cras ac leo purus. Mauris quis diam velit.</p>
 
 
