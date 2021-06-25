@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Charles J. Law"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Astronomy at Harvard University and the Center for Astrophysics | Harvard & Smithsonian"
-  location         : "Cambridge, MA, USA"
-  employer         : #"Cambridge, MA, USA"
+  bio              : "Ph.D. student in Astronomy at Harvard University"
+  location         : "Center for Astrophysics | Harvard & Smithsonian"
+  employer         : "Cambridge, MA, USA"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
   email            : "charles.law@cfa.harvard.edu"
