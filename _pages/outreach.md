@@ -12,12 +12,12 @@ I am deeply interested in promoting science communication and increasing engagem
 
 <h2>Increasing Access and Student Engagement</h2>
 
-<p style="text-align:center;max-width:45%;margin-left:15px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
+<p style="text-align:center;max-width:45%;margin-left:25px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
 </p>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac. In at libero sed nunc venenatis imperdiet sed ornare turpis.</p>
 
 
-<p style="text-align:center;max-width:45%;margin-right:15px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Flipped_Science_Fair.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Flipped_Science_Fair.png" data-api-returntype="File" /><br /><span style="font-size: small;">Flipped Science Fair, JFK Middle School</span>
+<p style="text-align:center;max-width:45%;margin-right:25px;padding-bottom:-50px;display:block;float:left;vertical-align:top"><img src="https://claw-astro.github.io/images/Flipped_Science_Fair.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Flipped_Science_Fair.png" data-api-returntype="File" /><br /><span style="font-size: small;">Flipped Science Fair, JFK Middle School</span>
 </p>
 <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet, nulla et dictum interdum, nisi lorem egestas odio, vitae scelerisque enim ligula venenatis dolor. Maecenas nisl est, ultrices nec congue eget, auctor vitae massa. Fusce luctus vestibulum augue ut aliquet. Mauris ante ligula, facilisis sed ornare eu, lobortis in odio. Praesent convallis urna a lacus interdum ut hendrerit risus congue. Nunc sagittis dictum nisi, sed ullamcorper ipsum dignissim ac.</p>
 
