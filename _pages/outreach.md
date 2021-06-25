@@ -10,7 +10,7 @@ redirect_from:
 I am deeply involved in promoting science communication and increasing engagement in astronomy and science more broadly for both students and member of the general public. For my efforts, I was recognized as an <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration: none">AAS Astronomy Ambassador</a>.  
 
 
-<h2>Increasing Access and Student Engagement</h2>
+<h2>Increasing Access and Promoting Student and Public Engagement</h2>
 
 <p style="text-align:center;max-width:45%;margin-left:20px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/Teaching_HSYLC.png" alt="missing?" data-api-endpoint="https://claw-astro.github.io/images/Teaching_HSYLC.png" data-api-returntype="File" /><br /><span style="font-size: small;">HSYLC, Shanghai, China</span>
 </p>
