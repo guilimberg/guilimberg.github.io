@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Astronomer at the Center for Astrophysics | Harvard and Smithsonian
+Astronomer at the Center for Astrophysics | Harvard & Smithsonian
 ------
 I am a 4th-year NSF Graduate Research Fellow at Harvard University and the Center for Astrophysics | Harvard & Smithsonian, working with <a href="https://pweb.cfa.harvard.edu/people/karin-oberg" style="text-decoration: none">Karin Öberg</a> and <a href="https://pweb.cfa.harvard.edu/people/qizhou-zhang" style="text-decoration: none">Qizhou Zhang</a>. I received my B.A. in physics and astronomy from Harvard College in May 2017. My research focuses on the chemical complexity associated with the star and planet formation process. I use high spatial resolution observations from (sub-)millimeter interferometers such as the Atacama Large Millimeter/submillimeter Array (ALMA) and the Submillimeter Array (SMA) to characterize the chemical environments in which young planets are forming.
 
