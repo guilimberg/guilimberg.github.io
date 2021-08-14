@@ -49,7 +49,7 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 <b>Co-Authored</b>
 <ol>
   <li>Martín Doménech, R., et al. (incl. Law, C. J.). Hot corino chemistry in the Class I binary source Ser-emb 11, subm.</li>
-  <li>Sano, H., et al. (incl. Law, C. J.). 2020, ALMA CO Observations of Gamma-Ray Supernova Remnant N 132D in the Large Magellanic Cloud: Possible Evidence for Shocked Molecular Clouds Illuminated by Cosmic-Ray Protons, ApJ, 902, 53</li>
+  <li>Sano, H., et al. (incl. Law, C. J.). 2020, ALMA CO Observations of Gamma-Ray Supernova Remnant N132D in the Large Magellanic Cloud: Possible Evidence for Shocked Molecular Clouds Illuminated by Cosmic-Ray Protons, ApJ, 902, 53</li>
   <li>Le Gal, R., et al. (incl. Law, C. J.). 2020, A 3mm chemical exploration of small organics in Class I YSOs ApJ, 898, 131</li>
 </ol>
 
