@@ -36,8 +36,8 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>First Author</b>
 <ol>
-  <li>Law, C.J., Loomis, R. A., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, accepted.</li>
-  <li>Law, C.J., Teague, R., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, accepted.</li>
+  <li>Law, C.J., Loomis, R. A., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, accepted</li>
+  <li>Law, C.J., Teague, R., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, accepted</li>
   <li>Law, C. J., Zhang, Q., Öberg, K. I., Galván-Madrid, R., Keto, E., Liu, H., Ho, P. T. P. 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
   <li>Law, C. J., Milisavljevic, D., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
   <li>Law, C. J., Zhang, Q., Ricci, L., Petitpas, G., M. J. Jiménez-Donaire, Ueda, J., Lu, X., Dunham, M. M. 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
@@ -48,6 +48,7 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>Co-Authored</b>
 <ol>
+  <li>Martín Doménech, R., et al. (incl. Law, C. J.). Hot corino chemistry in the Class I binary source Ser-emb 11, subm.</li>
   <li>Sano, H., et al. (incl. Law, C. J.). 2020, ALMA CO Observations of Gamma-Ray Supernova Remnant N 132D in the Large Magellanic Cloud: Possible Evidence for Shocked Molecular Clouds Illuminated by Cosmic-Ray Protons, ApJ, 902, 53</li>
   <li>Le Gal, R., et al. (incl. Law, C. J.). 2020, A 3mm chemical exploration of small organics in Class I YSOs ApJ, 898, 131</li>
 </ol>
