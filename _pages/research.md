@@ -27,13 +27,13 @@ img {
 <h2>Chemical substructures in protoplanetary disks</h2>
 
 <p><img src="https://claw-astro.github.io/images/gallerymaps.png" alt="disk chemical substructures" style="max-width:50%;margin-right:15px;">
-Protoplanetary disks provide the raw materials for forming planets. Disk observations can provide crucial constraints on the formation locations of planets and the processes by which initial gas and dust distributions evolve into planetary systems. Disks are highly structured in both their radial and vertical gas distributions and high spatial resolution observations are necessary to not only identify and catalogue the frequency of such substructures but also to relate them to the distribution of dust as well as their influence of nascent planets.</p>
+Protoplanetary disks provide the raw materials for forming planets. Disk observations can provide crucial constraints on the formation locations of planets and the processes by which initial gas and dust distributions evolve into planetary systems. Disks are highly structured in both their radial and vertical gas distributions and high spatial resolution observations are necessary to not only identify and catalogue the frequency of such substructures but also to relate them to the distribution of dust as well as their influence of nascent planets. Such observations are also required to reveal the inner planet forming zones of these disks (<50 au) in order to uncover the chemical environments in which planets are assembled.</p>
 
 
 <h2>Chemical composition of embedded, Solar-like protostars</h2>
 
 <p><img src="https://claw-astro.github.io/images/Carbon_chains.png" alt="Spectra of carbon chains" style="max-width:40%;margin-right:15px;">
-Carbon chain molecules constitute an important reservoir of reactive organic material in interstellar clouds and in at least some protostellar envelopes. These molecules may eventually be incorporated into protoplanetary disks and then later into planetesimals and planets, seeding incipient planets with complex organic material. Carbon chains are thus expected to be abundant throughout star formation and potentially during planet formation as well. Observational surveys of these molecules allow us to establish the distribution and abundance of carbon chains around ‘typical’ protostars.</p>
+Carbon chain molecules constitute an important reservoir of reactive organic material in interstellar clouds and in at least some protostellar envelopes. These molecules may eventually be incorporated into protoplanetary disks and then later into planetesimals and planets, seeding incipient planets with complex organic material. Carbon chains are thus expected to be abundant throughout star formation and potentially during planet formation as well. Observational surveys of these molecules around Solar-type protostars allow us to establish the distribution and abundance of carbon chains around ‘typical’ protostars, and answer numerous oustanding questions, such as the origins and nature of warm carbon chain chemistry (WCCC).</p>
 
 
 <h2>Spatially-resolved chemistry in massive young stellar objects</h2>
