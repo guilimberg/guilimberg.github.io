@@ -9,14 +9,14 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>First Author</b>
 <ol>
-  <li>Law, C.J., Loomis, R. A., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, accepted</li>
-  <li>Law, C.J., Teague, R., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, accepted</li>
-  <li>Law, C. J., Zhang, Q., Öberg, K. I., Galván-Madrid, R., Keto, E., Liu, H., Ho, P. T. P. 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
-  <li>Law, C. J., Milisavljevic, D., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
-  <li>Law, C. J., Zhang, Q., Ricci, L., Petitpas, G., M. J. Jiménez-Donaire, Ueda, J., Lu, X., Dunham, M. M. 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
-  <li>Law, C. J., Öberg, K. I., Bergner, J. B., Graninger, D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
-  <li>Law, C. J., Ricci, L., Andrews, S. M., Wilner, D. J., Qi, C. 2017, An SMA Continuum Survey of Circumstellar Disks in the Serpens Star-Forming Region, AJ, 154, 255</li>
-  <li>Law, C. J., Milisavljevic, D., et al. (+9 coauthors). 2017, TRES Survey of Variable Diffuse Interstellar Bands, MNRAS, 470, 2835</li>
+  <li><b>Law, C. J.</b>, Loomis, R. A., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, accepted</li>
+  <li><b>Law, C. J.</b>, Teague, R., et al. (+33 coauthors). Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, accepted</li>
+  <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., Galván-Madrid, R., Keto, E., Liu, H., Ho, P. T. P. 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
+  <li><b>Law, C. J.</b>, Milisavljevic, D., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
+  <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., Petitpas, G., M. J. Jiménez-Donaire, Ueda, J., Lu, X., Dunham, M. M. 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
+  <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, J. B., Graninger, D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
+  <li><b>Law, C. J.</b>, Ricci, L., Andrews, S. M., Wilner, D. J., Qi, C. 2017, An SMA Continuum Survey of Circumstellar Disks in the Serpens Star-Forming Region, AJ, 154, 255</li>
+  <li><b>Law, C. J.</b>, Milisavljevic, D., et al. (+9 coauthors). 2017, TRES Survey of Variable Diffuse Interstellar Bands, MNRAS, 470, 2835</li>
 </ol>
 
 <b>Co-Authored</b>
@@ -24,8 +24,8 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
   <li>Martín Doménech, R., et al. (incl. Law, C. J.). Hot corino chemistry in the Class I binary source Ser-emb 11, under review</li>
   <li>Öberg K. I., et al. (incl. Law, C. J.). Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, accepted</li>
   <li>Czekala, I., et al. (incl. Law, C. J.). Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks, ApJS, accepted</li>
-  <li>Zhang, K., Booth, A., Law, C. J., et al. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, accepted</li>
-  <li>Guzmán, V. V., Bergner, J. B., Law, C. J., et al. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C2H, and H2CO, ApJS, accepted</li>
+  <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, accepted</li>
+  <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C2H, and H2CO, ApJS, accepted</li>
   <li>Bosman, A. D., et al. (incl. Law, C. J.).  Molecules with ALMA at Planet-forming Scales (MAPS) VII. Sub-stellar O/H and C/H and super-stellar C/O in Planet Feeding Gas, ApJS, accepted</li>
   <li>Alarcón, F., et al. (incl. Law, C. J.).  Molecules with ALMA at Planet-forming Scales (MAPS) VIII. Gap Chemistry in AS 209: Gas Depletion or Chemical processing?, ApJS, under review</li>
   <li>Ilee, J. D., et al. (incl. Law, C. J.). Molecules with ALMA at Planet-forming Scales (MAPS) IX. Distribution and Properties of the Large Organic Molecules HC3N, CH3CN, and c-C3H2, ApJS, accepted</li>
