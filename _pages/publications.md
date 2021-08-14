@@ -25,14 +25,14 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
   <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, accepted</li>
   <li>Czekala, I., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks, ApJS, accepted</li>
   <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, accepted</li>
-  <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C2H, and H2CO, ApJS, accepted</li>
+  <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, accepted</li>
   <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>).  Molecules with ALMA at Planet-forming Scales (MAPS) VII. Sub-stellar O/H and C/H and super-stellar C/O in Planet Feeding Gas, ApJS, accepted</li>
   <li>Alarcón, F., et al. (incl. <b>Law, C. J.</b>).  Molecules with ALMA at Planet-forming Scales (MAPS) VIII. Gap Chemistry in AS 209: Gas Depletion or Chemical processing?, ApJS, under review</li>
-  <li>Ilee, J. D., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) IX. Distribution and Properties of the Large Organic Molecules HC3N, CH3CN, and c-C3H2, ApJS, accepted</li>
+  <li>Ilee, J. D., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) IX. Distribution and Properties of the Large Organic Molecules HC<sub>3</sub>N, CH<sub>3</sub>CN, and c-C<sub>3</sub>H<sub>2</sub>, ApJS, accepted</li>
   <li>Cataldi, G., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) X. Distributions of Deuterated Molecules, ApJS, accepted</li>
   <li>Bergner, J. B., Öberg, K. I., Guzmán, V. V., <b>Law, C. J.</b>, et al. MAPS XI. CN and HCN as Tracers of Photochemistry in Disks, ApJS, accepted</li>  
   <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules, ApJS, under review</li>
-  <li>Aikawa, Y., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XIII. HCO+ and Disk Ionization, ApJS, accepted</li>
+  <li>Aikawa, Y., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XIII. HCO<sup>+</sup> and Disk Ionization, ApJS, accepted</li>
   <li>Sierra, A., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XIV. Revealing Disk Substructures in Multi-wavelength Continuum Emission, ApJS, accepted</li>
   <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XV. Tracing Proto-planetary Disk Structure within 20 au, ApJS, accepted</li>
   <li>Booth, A., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XVI. Characterizing the impact of the molecular wind on the evolution of the HD 163296 system, ApJS, accepted</li>
