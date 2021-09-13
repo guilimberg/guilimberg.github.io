@@ -35,7 +35,7 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
   <li>Bergner, J. B., Öberg, K. I., Guzmán, V. V., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) XI. CN and HCN as Tracers of Photochemistry in Disks, ApJS, accepted</li>  
   <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules, ApJS, accepted</li>
   <li>Aikawa, Y., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XIII. HCO<sup>+</sup> and Disk Ionization Structure, ApJS, accepted</li>
-  <li>Sierra, A., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission, ApJS, accepted</li>
+  <li> Sierra, A., Pérez, L. M., Zhang, K., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission, ApJS, accepted</li>  
   <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XV. Tracing Protoplanetary Disk Structure within 20 au, ApJS, accepted</li>
   <li>Booth, A., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System, ApJS, accepted</li>
   <li>Calahan, J., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) XVII. Determining the 2D Thermal Structure of the HD 163296 Disk, ApJS, accepted</li>
