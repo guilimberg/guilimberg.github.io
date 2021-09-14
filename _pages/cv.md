@@ -50,7 +50,7 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 <ol>
   <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>). First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, arXiv:2109.03983, under review</li>
   <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>). Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, under review</li>
-  <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>). Hot corino chemistry in the Class I binary source Ser-emb 11, under review</li>
+  <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>). Hot corino chemistry in the Class I binary source Ser-emb 11, accepted</li>
   <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, accepted</li>
   <li>Czekala, I., et al. (incl. <b>Law, C. J.</b>). Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks, ApJS, accepted</li>
   <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, accepted</li>
