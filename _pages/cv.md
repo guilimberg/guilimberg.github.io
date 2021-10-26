@@ -21,6 +21,7 @@ Education
 
 Selected Honors and Awards
 ======
+* Derek Bok Certificate of Excellence and Distinction in Teaching (Spring 2021)
 * NSF Graduate Research Fellowship (2019 - Present)
 * Leo Goldberg Prize in Astronomy, Harvard University (2017)
 * Thomas Temple Hoopes Prize, Harvard University (2017)
@@ -79,15 +80,16 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
   
 Selected Talks
 ======
-* Invited, Origins Seminar, University of Arizona, May 2021
+* <b>Invited</b>, Leiden Astrochemistry Seminar, October 2021
+* <b>Invited</b>, Origins Seminar, University of Arizona, May 2021
 * Contributed, Space Telescope, 2021 Spring Symposium, April 2021
 * Contributed, Astrochemical Frontiers 2020, June 2020
-* Public Talk, Gloucester Area Astronomy Club, May 2020
+* <i>Public Talk</i>, Gloucester Area Astronomy Club, May 2020
 * Contributed, New England Star Formation Meeting, UConn, January 2020
-* Public Talk, Union County College/AAI, NJ, December 2019
+* <i>Public Talk</i>, Union County College/AAI, NJ, December 2019
 * Contributed, SNRs II, Chania, Crete, Greece, June 2019
-* Invited, ALMA Community Day, MIT, April 2019
-* Invited, SMA Advisory Committee Meeting, CfA, July 2018
+* <b>Invited</b>, ALMA Community Day, MIT, April 2019
+* <b>Invited</b>, SMA Advisory Committee Meeting, CfA, July 2018
 
 <!--   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -107,7 +109,8 @@ Teaching
   
 Service and Professional Activities
 ======
-* CfA APS-IDEA Committee Member (2021 - Present)
+* Subject Matter Expert, NASA JWST Community Events (2021 - Present)
+* Member, CfA APS-IDEA Accessibility & Sustainability Subcommittees (2021 - Present)
 * Harvard Astronomy Department Peer Mentor (2021 - Present)
 * Course Coordinator, Beacon Hill Seminar (2021 - Present)
 * Referee: A&A, A&A Letters, ApJ, ApJS (2018 - Present)
@@ -115,6 +118,7 @@ Service and Professional Activities
 
 Outreach
 ======
+* <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Beacon Hill Seminars</a> Course Coordinator (2019 - Present)
 * <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> Contributing Author (2019 - Present)
 * <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
 * <a href="https://pweb.cfa.harvard.edu/events/public-events" style="text-decoration:none">Observatory Night</a> Volunteer, CfA (2017 - Present)
