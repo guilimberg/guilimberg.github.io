@@ -115,14 +115,13 @@ Service and Professional Activities
 ======
 * Subject Matter Expert, NASA JWST Community Events (2021 - Present)
 * Member, CfA APS-IDEA Accessibility & Sustainability Subcommittees (2021 - Present)
-* Harvard Astronomy Department Peer Mentor (2021 - Present)
+* Peer Mentor, Harvard Astronomy Department (2021 - Present)
 * Course Coordinator, Beacon Hill Seminar (2021 - Present)
 * Referee: A&A, A&A Letters, ApJ, ApJS (2018 - Present)
 * Junior Member, American Astronomical Society (2017 - Present)
 
 Outreach
 ======
-* <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Beacon Hill Seminars</a> Course Coordinator (2019 - Present)
-* <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> Contributing Author (2019 - Present)
-* <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
-* <a href="https://pweb.cfa.harvard.edu/events/public-events" style="text-decoration:none">Observatory Night</a> Volunteer, CfA (2017 - Present)
+* Contributing Author, <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> (2019 - Present)
+* AAS Astronomy Ambassador, <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none"></a> (2019 - Present)
+* Volunteer, <a href="https://pweb.cfa.harvard.edu/events/public-events" style="text-decoration:none">CfA Observatory Nights</a> (2017 - Present)
