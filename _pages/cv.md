@@ -123,5 +123,5 @@ Service and Professional Activities
 Outreach
 ======
 * Contributing Author, <a href="https://astrobites.org/author/claw/" style="text-decoration:none">Astrobites</a> (2019 - Present)
-* AAS Astronomy Ambassador, <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none"></a> (2019 - Present)
+* <a href="https://aas.org/education/roster-aas-astronomy-ambassadors" style="text-decoration:none">AAS Astronomy Ambassador</a> (2019 - Present)
 * Volunteer, <a href="https://pweb.cfa.harvard.edu/events/public-events" style="text-decoration:none">CfA Observatory Nights</a> (2017 - Present)
