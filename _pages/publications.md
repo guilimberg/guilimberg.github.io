@@ -10,13 +10,13 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 <b>First Author</b>
 <ol>
   <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, in press</li>
-  <li><b>Law, C. J.</b>, Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, in press</li>
-  <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., Galván-Madrid, R., Keto, E., Liu, H., Ho, P. T. P. 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
-  <li><b>Law, C. J.</b>, Milisavljevic, D., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
-  <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., Petitpas, G., M. J. Jiménez-Donaire, Ueda, J., Lu, X., Dunham, M. M. 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
-  <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, J. B., Graninger, D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
-  <li><b>Law, C. J.</b>, Ricci, L., Andrews, S. M., Wilner, D. J., Qi, C. 2017, An SMA Continuum Survey of Circumstellar Disks in the Serpens Star-Forming Region, AJ, 154, 255</li>
-  <li><b>Law, C. J.</b>, Milisavljevic, D., et al. (+9 coauthors). 2017, TRES Survey of Variable Diffuse Interstellar Bands, MNRAS, 470, 2835</li>
+  <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, in press</li>
+  <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
+  <li><b>Law, C. J.</b>, Milisavljevic, D., Patnaude, D. J., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
+  <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., et al., 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
+  <li><b>Law, C. J.</b>, Öberg, K. I., Bergner, et al., D. 2018, Carbon Chain Molecules Toward Embedded Low-Mass Protostars, ApJ, 863, 88</li>
+  <li><b>Law, C. J.</b>, Ricci, L., Andrews, S. M., et al., 2017, An SMA Continuum Survey of Circumstellar Disks in the Serpens Star-Forming Region, AJ, 154, 255</li>
+  <li><b>Law, C. J.</b>, Milisavljevic, D., Crabtree, K. N., et al. (+9 coauthors). 2017, TRES Survey of Variable Diffuse Interstellar Bands, MNRAS, 470, 2835</li>
 </ol>
 
 <b>Second or Third Author</b>
