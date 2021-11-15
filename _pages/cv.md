@@ -37,8 +37,8 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, in press</li>
-  <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, in press</li>
+  <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
+  <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
   <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
   <li><b>Law, C. J.</b>, Milisavljevic, D., Patnaude, D. J., et al., (+10 coauthors). 2020, Three-dimensional Kinematic Reconstruction of the Optically-Emitting, High-Velocity, Oxygen-Rich Ejecta of Supernova Remnant N132D, ApJ, 894, 73</li>
   <li><b>Law, C. J.</b>, Zhang, Q., Ricci, L., et al., 2018, Submillimeter Array Observations of Extended CO (J = 2 - 1) Emission in Interacting Galaxy NGC 3627, ApJ, 865, 17</li>
@@ -49,9 +49,9 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>Second or Third Author</b>
 <ol>
-  <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, under review</li>
-  <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, in press</li>
-  <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, in press</li>
+  <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
+  <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
+  <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, 257, 6</li>
 </ol>    
     
 <b>Other Co-Authored Publications</b>
@@ -59,22 +59,22 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
   <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2021. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, under review</li>
   <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, in press</li>
   <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>), 2021. Hot corino chemistry in the Class I binary source Ser-emb 11, ApJ, in press</li>
-  <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, in press</li>
-  <li>Czekala, I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of Molecular Line Emission in Protoplanetary Disks, ApJS, in press</li>
-  <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VII. Substellar O/H and C/H and Superstellar C/O in Planet-feeding Gas, ApJS, in press</li>
-  <li>Alarcón, F., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VIII. CO Gap in AS 209-Gas Depletion or Chemical Processing?, ApJS, in press</li>
-  <li>Ilee, J. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IX. Distribution and Properties of the Large Organic Molecules HC<sub>3</sub>N, CH<sub>3</sub>CN, and c-C<sub>3</sub>H<sub>2</sub>, ApJS, in press</li>
-  <li>Cataldi, G., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) X. Studying Deuteration at High Angular Resolution toward Protoplanetary Disks, ApJS, in presss</li>
-  <li>Bergner, J. B., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XI. CN and HCN as Tracers of Photochemistry in Disks, ApJS, in press</li>  
-  <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules, ApJS, in press</li>
-  <li>Aikawa, Y., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XIII. HCO<sup>+</sup> and Disk Ionization Structure, ApJS, in press</li>
-  <li> Sierra, A., Pérez, L. M., Zhang, K., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission, ApJS, accepted</li>  
-  <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XV. Tracing Protoplanetary Disk Structure within 20 au, ApJS, in press</li>
-  <li>Booth, A., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System, ApJS, in press</li>
-  <li>Calahan, J., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVII. Determining the 2D Thermal Structure of the HD 163296 Disk, ApJS, in press</li>
-  <li>Teague, R., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVIII. Kinematic Substructures in the Disks of HD 163296 and MWC 480, ApJS, in press</li>
-  <li>Huang, J., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XIX. Spiral Arms, a Tail, and Diffuse Structures Traced by CO around the GM Aur Disk, ApJS, in press</li>
-  <li>Schwarz, K., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XX. The Massive Disk Around GM Aurigae, ApJS, in press</li>
+  <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, 257, 1</li>
+  <li>Czekala, I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of 257, 2</li>
+  <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VII. Substellar O/H and C/H and Superstellar C/O in Planet-feeding Gas, ApJS, 257, 7</li>
+  <li>Alarcón, F., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VIII. CO Gap in AS 209-Gas Depletion or Chemical Processing?, ApJS, 257, 8</li>
+  <li>Ilee, J. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IX. Distribution and Properties of the Large Organic 257, 9</li>
+  <li>Cataldi, G., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) X. Studying Deuteration at High Angular Resolution toward Protoplanetary Disks, ApJS, 257, 10</li>
+  <li>Bergner, J. B., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XI. CN and HCN as Tracers of Photochemistry in Disks, ApJS, 257, 11</li>  
+  <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XII. Inferring the C/O and S/H Ratios in Protoplanetary Disks with Sulfur Molecules, ApJS, 257, 12</li>
+  <li>Aikawa, Y., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XIII. HCO<sup>+</sup> and Disk Ionization Structure, ApJS, 257, 13</li>
+  <li> Sierra, A., Pérez, L. M., Zhang, K., <b>Law, C. J.</b>, et al. Molecules with ALMA at Planet-forming Scales (MAPS) XIV. Revealing Disk Substructures in Multiwavelength Continuum Emission, ApJS, 257, 14</li>  
+  <li>Bosman, A. D., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XV. Tracing Protoplanetary Disk Structure within 20 au, ApJS, 257, 15</li>
+  <li>Booth, A., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVI. Characterizing the Impact of the Molecular Wind on the Evolution of the HD 163296 System, ApJS, 257, 16</li>
+  <li>Calahan, J., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVII. Determining the 2D Thermal Structure of the HD 163296 Disk, ApJS, 257, 17</li>
+  <li>Teague, R., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XVIII. Kinematic Substructures in the Disks of HD 163296 and MWC 480, ApJS, 257, 18</li>
+  <li>Huang, J., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XIX. Spiral Arms, a Tail, and Diffuse Structures Traced by CO around the GM Aur Disk, ApJS, 257, 19</li>
+  <li>Schwarz, K., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) XX. The Massive Disk Around GM Aurigae, ApJS, 257, 20</li>
   <li>Sano, H., et al. (incl. <b>Law, C. J.</b>). 2020, ALMA CO Observations of Gamma-Ray Supernova Remnant N132D in the Large Magellanic Cloud: Possible Evidence for Shocked Molecular Clouds Illuminated by Cosmic-Ray Protons, ApJ, 902, 53</li>
   <li>Le Gal, R., et al. (incl. <b>Law, C. J.</b>). 2020, A 3mm chemical exploration of small organics in Class I YSOs ApJ, 898, 131</li>
 </ol>
