@@ -21,6 +21,7 @@ Education
 
 Selected Honors and Awards
 ======
+* ALMA Ambassador Fellow (2022)
 * Derek Bok Certificate of Excellence and Distinction in Teaching (Spring 2021)
 * NSF Graduate Research Fellowship (2019 - Present)
 * Leo Goldberg Prize in Astronomy, Harvard University (2017)
@@ -37,6 +38,7 @@ A full listing of my publications can be found on <a href="https://ui.adsabs.har
 
 <b>First Author</b>
 <ol>
+    <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, under review</li>
   <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
   <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
   <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
