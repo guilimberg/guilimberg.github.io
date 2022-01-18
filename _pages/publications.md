@@ -30,7 +30,7 @@ Author of 33 publications (refereed or under review), including 9 as first autho
 <b>Other Co-Authored Publications</b>
 <ol>
   <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2021. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, under review</li>
-  <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, in press</li>
+  <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, 509, 2</li>
   <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>), 2021. Hot corino chemistry in the Class I binary source Ser-emb 11, ApJ, in press</li>
   <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, 257, 1</li>
   <li>Czekala, I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) II. CLEAN Strategies for Synthesizing Images of 257, 2</li>
