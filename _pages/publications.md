@@ -9,7 +9,7 @@ Author of 33 publications (refereed or under review), including 9 as first autho
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, under review</li>
+  <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, in press, arXiv:2205.01776</li>
   <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
   <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
   <li><b>Law, C. J.</b>, Zhang, Q., Öberg, K. I., et al., 2021, Subarcsecond Imaging of the Complex Organic Chemistry in Massive Star-Forming Region G10.6-0.4, ApJ, 909, 214</li>
@@ -29,7 +29,7 @@ Author of 33 publications (refereed or under review), including 9 as first autho
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, under review</li>
+  <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, in press, arXiv:2204.08731</li>
   <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, 509, 2</li>
   <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>), 2021. Hot corino chemistry in the Class I binary source Ser-emb 11, ApJ, 923, 155</li>
   <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, 257, 1</li>
