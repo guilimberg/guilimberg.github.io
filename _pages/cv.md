@@ -34,7 +34,7 @@ Selected Honors and Awards
 
 Selected Publications
 ======
-Only first author and other publications with significant contributions are shown below. A full listing of my publications (39) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+First coauthor publications and those with significant contributions are shown below. A full listing of my publications (39) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <ol>
     <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, subm.</li>
