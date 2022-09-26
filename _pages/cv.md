@@ -60,7 +60,7 @@ First coauthor publications and those with significant contributions are shown b
   
 Selected Talks
 ======
-* Planet and Binary Formation in GI Discs, Leicester, UK, September 2022
+* Contributed, Planet and Binary Formation in GI Discs, Leicester, UK, September 2022
 * Contributed, Exoplanets IV, May 2022
 * <i>Public Talk</i>, Atwood Museum, Cape Cod, July 2022
 * <b>Invited</b>, Leiden Astrochemistry Seminar, October 2021
