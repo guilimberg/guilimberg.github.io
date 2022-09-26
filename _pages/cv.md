@@ -38,7 +38,8 @@ Only first author and other publications with significant contributions are show
 
 <ol>
     <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, subm.</li>
-    <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, in press, arXiv:2205.01776</li>
+    <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, subm.</li>
+    <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, 932, 114</li>
   <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
   <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, 257, 6</li>
    <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
