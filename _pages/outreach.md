@@ -37,7 +37,7 @@ I am deeply involved in promoting science communication and increasing engagemen
 
 <p style="text-align:center;max-width:45%;margin-left:20px;padding-bottom:-50px;display:block;float:right;vertical-align:top"><img src="https://claw-astro.github.io/images/ALMA_Amb_picture.jpeg" alt="ALMA Ambassadors standing in front of the NRAO building" data-api-endpoint="https://claw-astro.github.io/images/ALMA_Amb_picture.jpeg" data-api-returntype="File" /><br /><span style="font-size: small;">ALMA Ambassadors at NRAO</span>
 </p>
-<p>I was selected as an <a href="https://science.nrao.edu/facilities/alma/ambassadors-program/index" style="text-decoration: none">ALMA Ambassador</a> to receive further professional training about ALMA/interferometry and share that knowledge with other astronomers who are less familiar with the capabilities of ALMA. As part of the program, I am organizing and running a hands-on data analysis workshop to train others on calibration and imaging techniques to use on their own ALMA observations.
+<p>I was selected to be an <a href="https://science.nrao.edu/facilities/alma/ambassadors-program/index" style="text-decoration: none">ALMA Ambassador</a> to receive further professional training about ALMA/interferometry and share that knowledge with other astronomers who are less familiar with the capabilities of ALMA. As part of the program, I am organizing and running a hands-on data analysis workshop to train others on calibration and imaging techniques to use on their own ALMA observations.
 
 
 
