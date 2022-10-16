@@ -32,10 +32,10 @@ Author of 39 publications (refereed or under review), including 10 as first auth
 <b>Other Co-Authored Publications</b>
 <ol>
   <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2022. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, subm.</li>
-  <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry Marks the Late-stages of Planet Formation. Nature Astronomy, subm.</li>
   <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2022. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, subm.</li>
+  <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry Marks the Late-stages of Planet Formation. Nature Astronomy, in press</li>
+  <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, 938, 55</li>
   <li>Bae, J., et al. (incl. <b>Law, C. J.</b>), 2022. Molecules with ALMA at Planet-forming Scales (MAPS). A Circumplanetary Disk Candidate in Molecular Line Emission in the AS 209 Disk, ApJL, 934, L20</li>
-  <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, in press, arXiv:2204.08731</li>
   <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, 509, 2</li>
   <li>Martín Doménech, R., et al. (incl. <b>Law, C. J.</b>), 2021. Hot corino chemistry in the Class I binary source Ser-emb 11, ApJ, 923, 155</li>
   <li>Öberg K. I., et al. (incl. <b>Law, C. J.</b>), 2021. Molecules with ALMA at Planet-forming Scales (MAPS) I. Program Overview and Highlights, ApJS, 257, 1</li>
