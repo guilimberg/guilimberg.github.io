@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 39 publications (refereed or under review), including 10 as first author and 4 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 40 publications (refereed or under review), including 10 as first author and 4 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
@@ -31,6 +31,7 @@ Author of 39 publications (refereed or under review), including 10 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
+  <li>Galván-Madrid, R., et al. (incl. <b>Law, C. J.</b>), 2022. Clustered Formation of Massive Stars within an Ionized Rotating Disk. ApJL, subm.</li>
   <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2022. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, subm.</li>
   <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2022. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, subm.</li>
   <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry Marks the Late-stages of Planet Formation. Nature Astronomy, in press</li>
