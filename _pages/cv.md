@@ -21,6 +21,7 @@ Education
 
 Selected Honors and Awards
 ======
+* AAS Rodger Doxsey Travel Prize (2023)
 * ALMA Ambassador (2022)
 * Derek Bok Certificate of Excellence and Distinction in Teaching (Spring 2021)
 * NSF Graduate Research Fellowship (2019)
