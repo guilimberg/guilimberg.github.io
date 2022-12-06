@@ -16,7 +16,7 @@ Education
 ======
 * B.A. in Physics and Astrophysics, Harvard University, 2017
 * M.A. in Astronomy and Astrophysics, Harvard University, 2021
-* Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - Present<br>        <I>Advisor: Karin I. Öberg</I> 
+* Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - Present<br>        <I>Advisor: Karin I. Öberg</I><br><I>Thesis: Zooming in on the Chemistry of Star and Planet Formation</I> 
 
 
 Selected Honors and Awards
