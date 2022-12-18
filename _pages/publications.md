@@ -31,8 +31,8 @@ Author of 40 publications (refereed or under review), including 10 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2022. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, subm.</li>
   <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2022. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, subm.</li>
+  <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2022. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, in press</li>
   <li>Galván-Madrid, R., et al. (incl. <b>Law, C. J.</b>), 2022. Clustered Formation of Massive Stars within an Ionized Rotating Disk. ApJL, in press</li>
   <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry as a Signpost of Late-stage Planet Formation. Nature Astronomy, in press</li>
   <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, 938, 55</li>
