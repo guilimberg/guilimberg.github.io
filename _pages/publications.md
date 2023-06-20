@@ -5,11 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-Author of 40 publications (refereed or under review), including 10 as first author and 4 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+Author of 45 publications (refereed or under review), including 11 as first author and 6 as second or third author. A full listing of my publications can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <b>First Author</b>
 <ol>
-  <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, in press</li>
+  <li><b>Law, C. J.</b>, Booth, A. S., Öberg, K. I., et al. 2023. SO and SiS Emission Tracing an Embedded Planet and Compact 12CO and 13CO Counterparts in the HD 169142 Disk, ApJL, in press</li>
+  <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2023. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, 948, 60</li>
   <li><b>Law, C. J.</b>, Crystian, S., Teague, R., et al., 2022. CO Line Emission Surfaces and Vertical Structure in Mid-Inclination Protoplanetary Disks, ApJ, 932, 114</li>
   <li><b>Law, C. J.</b>, Loomis, R. A., Teague, R., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) III. Characteristics of Radial Chemical Substructures, ApJS, 257, 3</li>
   <li><b>Law, C. J.</b>, Teague, R., Loomis, R. A., et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) IV. Emission Surfaces and Vertical Distribution of Molecules, ApJS, 257, 4</li>
@@ -23,7 +24,9 @@ Author of 40 publications (refereed or under review), including 10 as first auth
 
 <b>Second or Third Author</b>
 <ol>
-  <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, in press</li>
+    <li>Booth, A. S., <b>Law, C. J.</b>, Temmink, M., et al., 2023. Tracing snowlines and C/O ratio in a planet-hosting disk: ALMA molecular line observations towards the HD 169142 disk, A&A, subm.</li>
+  <li>Sturm, J. A., McClure M. K., <b>Law, C. J.</b>, et al., 2023. Modeling the edge-on HH 48 NE protoplanetary disk I. Geometry and stellar parameters, A&A, in press</li>
+  <li>Muñoz-Romero, C. E., Öberg, K. I., <b>Law, C. J.</b>, et al., 2022. Cold Deuterium Fractionation in the Nearest Planet-Forming Disk, ApJ, 943, 35</li>
   <li>Teague, R., <b>Law, C. J.</b>, Huang, J., et al., 2021. disksurf: Extracting the 3D Structure of Protoplanetary Disks, JOSS, 6, 67</li>
   <li>Zhang, K., Booth, A., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) V. CO Gas Distributions, ApJS, 257, 5</li>
   <li>Guzmán, V. V., Bergner, J. B., <b>Law, C. J.</b>, et al., 2021. Molecules with ALMA at Planet-forming Scales (MAPS) VI. Distribution of the Small Organics HCN, C<sub>2</sub>H, and H<sub>2</sub>CO, ApJS, 257, 6</li>
@@ -31,10 +34,12 @@ Author of 40 publications (refereed or under review), including 10 as first auth
     
 <b>Other Co-Authored Publications</b>
 <ol>
-  <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2022. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, subm.</li>
-  <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2022. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, in press</li>
-  <li>Galván-Madrid, R., et al. (incl. <b>Law, C. J.</b>), 2022. Clustered Formation of Massive Stars within an Ionized Rotating Disk. ApJL, in press</li>
-  <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry as a Signpost of Late-stage Planet Formation. Nature Astronomy, in press</li>
+  <li>Sturm, J. A., et al. (incl. <b>Law, C. J.</b>), 2023. Modeling the edge-on HH 48 NE protoplanetary disk II. Ices and silicates. A&A, in press</li>
+  <li>Galloway-Sprietsma, M., et al. (incl. <b>Law, C. J.</b>), 2023. MAPS. Complex Kinematics in the AS 209 Disk Induced by a Forming Planet and Disk Winds. ApJ, in press</li>
+  <li>Pegues, J., et al. (incl. <b>Law, C. J.</b>), 2023. An SMA Survey of Chemistry in Disks around Herbig AeBe Stars. ApJ, 948, 57</li>
+  <li>Banovetz, J., et al. (incl. <b>Law, C. J.</b>), 2023. HST Proper Motion Measurements of Supernova Remnant N132D: Center of Expansion and Age. ApJ, 948, 33</li>
+  <li>Calahan, J. K., et al. (incl. <b>Law, C. J.</b>), 2022. UV-driven Chemistry as a Signpost of Late-stage Planet Formation. Nature Astronomy, 7, 49</li>
+  <li>Galván-Madrid, R., et al. (incl. <b>Law, C. J.</b>), 2022. Clustered Formation of Massive Stars within an Ionized Rotating Disk. ApJL, 942, L7</li>
   <li>Anderson, A. R., et al. (incl. <b>Law, C. J.</b>), 2022. Protostellar and Protoplanetary Disk Masses in the Serpens-Aquila Region, ApJ, 938, 55</li>
   <li>Bae, J., et al. (incl. <b>Law, C. J.</b>), 2022. Molecules with ALMA at Planet-forming Scales (MAPS). A Circumplanetary Disk Candidate in Molecular Line Emission in the AS 209 Disk, ApJL, 934, L20</li>
   <li>Sharda, P, et al. (incl. <b>Law, C. J.</b>), 2021. First extragalactic measurement of the turbulence driving parameter: ALMA observations of the star-forming region N159E in the Large Magellanic Cloud, MNRAS, 509, 2</li>
