@@ -12,11 +12,16 @@ redirect_from:
 A full PDF version can be found <a href="https://claw-astro.github.io/files/Law_CV_Full.pdf" style="text-decoration: none">here</a>.
 
 
+Professional Appointments
+======
+* NASA Hubble Fellowship Program (NHFP) Sagan Fellow, University of Virginia, Department of Astronomy, Sept 2023 [expected]
+* Postdoctoral Researcher, Center for Astrophysics | Harvard & Smithsonian, June 2023 - Present
+
 Education
 ======
 * B.A. in Physics and Astrophysics, Harvard University, 2017
 * M.A. in Astronomy and Astrophysics, Harvard University, 2021
-* Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - Present<br>        <I>Advisor: Karin I. Öberg</I><br><I>Thesis: Zooming in on the Chemistry of Star and Planet Formation</I> 
+* Ph.D. in Astronomy and Astrophysics, Harvard University, 2018 - 2023<br>        <I>Advisors: Karin I. Öberg & Qizhou Zhang</I><br><I>Thesis: Zooming in on the Chemistry of Star and Planet Formation</I> 
 
 
 Selected Honors and Awards
@@ -35,7 +40,7 @@ Selected Honors and Awards
 
 Selected Publications
 ======
-First coauthor publications and those with significant contributions are shown below. A full listing of my publications (40) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
+First coauthor publications and those with significant contributions are shown below. A full listing of my publications (47) can be found on <a href="https://ui.adsabs.harvard.edu/user/libraries/BR8acQNQQKOJKcsn8H3uVg" style="text-decoration:none">ADS</a>.
 
 <ol>
     <li><b>Law, C. J.</b>, Teague, R., Öberg, K. I., et al. 2022. Mapping Protoplanetary Disk Vertical Structure with CO Isotopologue Line Emission, ApJ, in press</li>
@@ -96,7 +101,7 @@ Teaching
 Service and Professional Activities
 ======
 * Referee: A&A, A&A Letters, ApJ, ApJS (2018 - Present)
-* Co-Organizer, CfA Star Formation Journal Club (2022 - Present)
+* Co-Organizer, CfA Star Formation Journal Club (2022 - 2023)
 * Member, CfA APS-IDEA Accessibility Subcommittee (2021 - Present)
 * Peer Mentor, Harvard Astronomy Department (2021 - Present)
 * Member, American Astronomical Society (2017 - Present)
