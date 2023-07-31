@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Charles J. Law"
+title                    : "guilimberg"
 title_separator          : "-"
 name                     : &name "Charles J. Law"
 description              : &description "personal description"
-url                      : https://claw-astro.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://guilimberg.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "claw-astro/claw-astro.github.io" #"academicpages/academicpages.github.io"
+repository               : "guilimberg/guilimberg.github.io" #"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Charles J. Law"
+  name             : "Guilherme Limberg"
   avatar           : "website_foto_resize.png"
   bio              : "Postdoctoral Researcher in Astronomy"
   location         : "Center for Astrophysics<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Harvard & Smithsonian"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "claw-astro"
+  github           : "guilimberg"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : "guilimberg"
   vine             :
   weibo            :
   xing             :
