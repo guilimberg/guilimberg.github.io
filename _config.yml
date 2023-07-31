@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "guilimberg"
 title_separator          : "-"
-name                     : &name "Charles J. Law"
+name                     : &name "Guilherme Limberg"
 description              : &description "personal description"
 url                      : https://guilimberg.github.io #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -83,11 +83,11 @@ author:
   name             : "Guilherme Limberg"
   avatar           : "website_foto_resize.png"
   bio              : "Postdoctoral Researcher in Astronomy"
-  location         : "Center for Astrophysics<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Harvard & Smithsonian"
-  employer         : "Cambridge, MA, USA"
+  location         : "Chicago/USA"
+  employer         : #""
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=GqG5GiIAAAAJ"#"http://yourfullgooglescholarurl.com"
-  email            : "charles.law@cfa.harvard.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=WX-kFMgAAAAJ&hl"
+  email            : #"charles.law@cfa.harvard.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,10 +103,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-1413-1776"
+  orcid            : "https://orcid.org/0000-0002-9269-8287"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "11275388/guilimberg"
   steam            :
   tumblr           :
   twitter          : "guilimberg"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
