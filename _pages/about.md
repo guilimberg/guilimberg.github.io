@@ -1,12 +1,12 @@
 ---
 permalink: /
-excerpt: "About"
 author_profile: true
+title: <font color="white" "@guilimberg"</font>
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<!--- excerpt: "About" --->
 Hi there, welcome!
 ------
 <p align="justify">
