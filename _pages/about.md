@@ -12,11 +12,17 @@ Hi there, welcome!
 ------
 <p align="justify">
 I’m a final-year PhD student (or ‘candidate’) in Astronomy at Universidade de São Paulo (USP) in Brasil under supervision of Prof. <a href="https://bv.fapesp.br/en/pesquisador/4078/silvia-cristina-fernandes-rossi/" style="text-decoration: none">Silvia Rossi</a>. My research focuses on the field of Galactic Archaeology, but mostly on the Milky Way’s halo, including its metal-poor stellar populations, phase-mixed substructures, stellar streams and overdensities, globular clusters, and dwarf galaxies (see ‘research’ tab). After having 'Galactic and extragalactic astrophysics' classes with Prof. <a href="http://www.astro.iag.usp.br/~pcoelho/" style="text-decoration: none">Paula Coelho</a> and reading Cris Chiappini's article on the <a href="https://drive.google.com/file/d/1X0c73WWPZ5eCieziwhk7rPKvDwvDHFJS/view?usp=sharing" style="text-decoration: none">formation of our Galaxy</a> still as an undergrad, I became fascinated by how we can learn about general processes of galaxy evolution using the Milky Way and its satellites as nearby laboratories. 
+</p>
 
+<p align="justify">
 For the 2022/23 academic year, I’m staying as a visitor at University of Chicago working with Prof. <a href="https://www.alexji.com/" style="text-decoration: none">Alex Ji</a>’s Near-field Cosmology group.
+</p>
 
+<p align="justify">
 I was born and raised in São Paulo, which is probably why I think Chicago is small. Yes, I do like football, but my true love is carnaval. I’m also a really big enthusiast of Brazilian modern music. Checkout my <a href="https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c&nd=1" style="text-decoration: none">Spotify</a> for some of my favorite artists. (:
+</p>
 
+<p align="justify">
 Here in the US, I’ve recently fallen in love with NYC after a one-week trip there. Sorry Chicago, but you truly are too small for me.
 </p>
 
