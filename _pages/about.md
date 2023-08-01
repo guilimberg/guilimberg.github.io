@@ -1,6 +1,5 @@
 ---
 permalink: /
-<!--- title: "Hi there, welcome!" --->
 excerpt: "About"
 author_profile: true
 redirect_from: 
