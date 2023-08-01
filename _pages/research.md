@@ -6,10 +6,23 @@ title: "Research"
 ------
 <p align="justify">
 I’m interested in most things Galactic Archaeology (or ‘near-field cosmology’). As of now, my research mostly focuses on the Galactic halo, although someone has told me that I should be doing the bulge because the halo is ‘easy’. The pillar of this discipline is the idea that, given the different properties of the Milky Way’s stellar populations, it should be possible to reconstruct their distinct formation pathways. Because stars retain a long-term ‘memory’ of their origins in both the chemical compositions of their atmospheres as well as in their kinematics, we can leverage these information to study the formation/evolution of both our Galaxy and its dwarf satellites on a star-by-star basis.
+</p>
 
+<p align="justify">
 Admittedly, I am someone ‘born’ in the Gaia era. Therefore, most of the time my research revolves around astrometric and spectro-photometric data products provided by the Gaia space mission. I also make extensive usage data from large-scale spectroscopic surveys (e.g., APOGEE, GALAH, LAMOST, and SEGUE) in combination with Gaia to obtain a full chemodynamical view of stellar populations. I also perform observations and analysis of low- and high-resolution spectra myself, in particular to derive stellar parameters and detailed chemical abundances.
 </p>
 
+Metal-poor stars
+------
+
+Stellar streams
+------
+
+Stellar overdensities
+------
+
+Star clusters
+------
 
 <!---## Locations of key files/directories
 
