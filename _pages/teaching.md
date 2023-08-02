@@ -20,8 +20,8 @@ Observing
 * Gemini integration time calculator (<a href="https://www.gemini.edu/observing/resources/itc" style="text-decoration:none">ITC</a>).
 * Gemini Phase I Tool (<a href="https://www.gemini.edu/observing/phase-i/pit" style="text-decoration:none">PIT</a>).
 * Gemini Observing Tool (<a href="http://www.gemini.edu/observing/phase-ii/ot" style="text-decoration:none">OT</a>).
-* <a href="https://www.gemini.edu/observing/schedules-and-queue" style="text-decoration:none">Gemini schedules and queue</a>.
-* <a href="https://archive.gemini.edu/searchform" style="text-decoration:none">Gemini archive</a>.
+* Gemini <a href="https://www.gemini.edu/observing/schedules-and-queue" style="text-decoration:none">schedules and queue</a>.
+* Gemini <a href="https://archive.gemini.edu/searchform" style="text-decoration:none">archive</a>.
 
 Spectroscopy
 ======
@@ -31,8 +31,8 @@ Spectroscopy
 * Atomic and Molecular Line List Generator (<a href="https://github.com/vmplacco/linemake" style="text-decoration:none">linemake</a>).
 * NLTE grids: <a href="http://www.inspect-stars.com/cp/application.py/" style="text-decoration:none">Lind+2011</a>.
 * Evolutionary <a href="http://vplacco.pythonanywhere.com/" style="text-decoration:none">corrections to carbon abundances</a> by <a href="https://vmplacco.github.io/" style="text-decoration:none">Vini Placco</a>.
-* <a href="https://jinabase.pythonanywhere.com/" style="text-decoration:none">JINAbase for metal-poor stars</a>.
-* <a href="http://sagadatabase.jp/" style="text-decoration:none">SAGA data base for metal-poor stars</a>.
+* <a href="https://jinabase.pythonanywhere.com/" style="text-decoration:none">JINAbase</a> for metal-poor stars.
+* <a href="http://sagadatabase.jp/" style="text-decoration:none">SAGA data base</a> for metal-poor stars.
 
 Conferences
 ======
