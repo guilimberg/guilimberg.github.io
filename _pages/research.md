@@ -5,15 +5,15 @@ title: "Research"
 
 ------
 <p align="justify">
-I’m interested in most things Galactic Archaeology (or ‘near-field cosmology’), which is somehow in betweem these two reviews: <a href="https://www.annualreviews.org/doi/10.1146/annurev-astro-082214-122423" style="text-decoration: none">Frebel+2015</a> and <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021917" style="text-decoration: none">Helmi+2020</a>. My research mostly focuses on the Galactic halo, although someone has told me that I should be doing the bulge because the halo is ‘easy’. The pillar of this discipline is the idea that, given the different properties of the Milky Way’s stellar populations, it should be possible to reconstruct their distinct formation pathways. Because stars retain a long-term ‘memory’ of their origins in both the chemical compositions of their atmospheres as well as in their kinematics, we can leverage these information to study the formation/evolution of both our Galaxy and its dwarf satellites on a star-by-star basis.
+I’m interested in most things <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021917" style="text-decoration: none">Galactic Archaeology</a> (or ‘<a href="https://www.annualreviews.org/doi/10.1146/annurev-astro-082214-122423" style="text-decoration: none">near-field cosmology</a>’). My research mostly focuses on the Galactic halo, although someone has told me that I should be doing the bulge because the halo is ‘easy’. The pillar of this discipline is the idea that, given the different properties of the Milky Way’s stellar populations, it should be possible to reconstruct their distinct formation pathways. Because stars retain a long-term ‘memory’ of their origins in both the chemical compositions of their atmospheres as well as in their kinematics, we can leverage these information to study the formation/evolution of both our Galaxy and its dwarf satellites on a star-by-star basis.
 </p>
 
 <p align="justify">
-Admittedly, I am someone ‘born’ in the _Gaia_ era. Most of my research revolves around astrometric and spectro-photometric data provided by the <a href="https://www.cosmos.esa.int/web/gaia" style="text-decoration: none">_Gaia_ space mission</a>. Also, I make extensive usage of data from large-scale spectroscopic surveys (e.g., APOGEE, GALAH, and SEGUE) to obtain a full chemodynamical view of stellar populations. I also perform observations and analysis of low- and high-resolution spectra myself, in particular to derive chemical abundances of stars.
+Admittedly, I am someone ‘born’ in the _Gaia_ era. Most of my research revolves around astrometric and spectro-photometric data provided by the <a href="https://www.cosmos.esa.int/web/gaia" style="text-decoration: none">_Gaia_ space mission</a>. Also, I make extensive usage of data from large-scale spectroscopic surveys (e.g., APOGEE, GALAH, and SEGUE) to obtain a full chemodynamical view of stellar populations. I also perform observations and analysis of low- and high-resolution spectra myself, in particular to derive detailed chemical abundances of stars.
 </p>
 
 <p align="justify">
-More specific topics of my interest include metal-poor stars, stellar streams and overdensities, star clusters, dwarf galaxies, and chemical abundances from high-resolution spectroscopy in all of the above. I've also recently gotten involved with deriving stellar parameters for large samples of stars from narrow-band photometry. 
+More specific topics of my interest include metal-poor stars, stellar streams and overdensities, star clusters, dwarf galaxies, and chemical abundances from high-resolution spectroscopy. 
 </p>
 
 <!--- Star clusters
