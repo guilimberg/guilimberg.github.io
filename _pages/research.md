@@ -9,7 +9,7 @@ I’m interested in most things <a href="https://www.annualreviews.org/doi/full/
 </p>
 
 <p align="justify">
-Admittedly, I am someone ‘born’ in the _Gaia_ era. Most of my research revolves around astrometric and spectro-photometric data provided by the <a href="https://www.cosmos.esa.int/web/gaia" style="text-decoration: none">_Gaia_ space mission</a>. Also, I make extensive usage of data from large-scale spectroscopic surveys (e.g., APOGEE, GALAH, and SEGUE) to obtain a full chemodynamical view of stellar populations. I also perform observations and analysis of low- and high-resolution spectra myself, in particular to derive detailed chemical abundances of stars.
+Admittedly, I am someone ‘born’ in the <i>Gaia</i> era. Most of my research revolves around astrometric and spectro-photometric data provided by the <a href="https://www.cosmos.esa.int/web/gaia" style="text-decoration: none"><i>Gaia</i> space mission</a>. Also, I make extensive usage of data from large-scale spectroscopic surveys (e.g., APOGEE, GALAH, and SEGUE) to obtain a full chemodynamical view of stellar populations. I also perform observations and analysis of low- and high-resolution spectra myself, in particular to derive detailed chemical abundances of stars.
 </p>
 
 <p align="justify">
