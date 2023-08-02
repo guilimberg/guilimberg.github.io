@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "guilimberg"
+title                    : "@guilimberg"
 title_separator          : "-"
 name                     : &name "Guilherme Limberg"
 description              : &description "personal description"
