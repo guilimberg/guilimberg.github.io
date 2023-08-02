@@ -12,7 +12,29 @@ List of resources that could be useful (mostly for myself).
 
 Journal club
 ======
-* List of papers discussed during the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting </a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+* List of papers from the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting </a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+
+Observing
+======
+* Object visibility: <a href="http://catserver.ing.iac.es/staralt/index.php" style="text-decoration:none">Staralt</a>.
+* Gemini integration time calculator (<a href="https://www.gemini.edu/observing/resources/itc" style="text-decoration:none">ITC</a>).
+* Gemini Phase I Tool (PIT)
+* Gemini Observing Tool (OT)
+* Gemini schedule
+* Gemini archive
+
+Spectroscopy
+======
+* LESSPayne.
+* My code for generating 'master' abundance tables from LESSPayne/smhr output.
+* Alex Ji's 2017 MOOG version
+* Atomic and Molecular Line List Generator (linemake).
+* NLTE grids: Lind+2011.
+* Evolutionary corrections to carbon abundances by Vini Placco.
+
+Conferences
+======
+* 
 
 <!---
 <ul>
