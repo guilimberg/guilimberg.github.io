@@ -1,11 +1,18 @@
 ---
-layout: archive
 title: "Resources"
 permalink: /teaching/
-author_profile: true
 ---
 
-list xx useful resources
+------
+
+{% include base_path %}
+
+List of resources that could be useful (mostly for myself).
+
+
+Journal club
+======
+* List of papers discussed during the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting </a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
 
 <!---
 <ul>
