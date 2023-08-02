@@ -7,34 +7,36 @@ permalink: /teaching/
 
 {% include base_path %}
 
-List of resources that could be useful (mostly for myself).
+List of useful resources (mostly for myself).
 
 
 Journal club
 ======
-* List of papers from the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting </a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+* List of papers from the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting</a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
 
 Observing
 ======
 * Object visibility: <a href="http://catserver.ing.iac.es/staralt/index.php" style="text-decoration:none">Staralt</a>.
 * Gemini integration time calculator (<a href="https://www.gemini.edu/observing/resources/itc" style="text-decoration:none">ITC</a>).
-* Gemini Phase I Tool (PIT)
-* Gemini Observing Tool (OT)
-* Gemini schedule
-* Gemini archive
+* Gemini Phase I Tool (<a href="https://www.gemini.edu/observing/phase-i/pit" style="text-decoration:none">PIT</a>).
+* Gemini Observing Tool (<a href="http://www.gemini.edu/observing/phase-ii/ot" style="text-decoration:none">OT</a>).
+* <a href="https://www.gemini.edu/observing/schedules-and-queue" style="text-decoration:none">Gemini schedules and queue</a>.
+* <a href="https://archive.gemini.edu/searchform" style="text-decoration:none">Gemini archive</a>.
 
 Spectroscopy
 ======
-* LESSPayne.
-* My code for generating 'master' abundance tables from LESSPayne/smhr output.
-* Alex Ji's 2017 MOOG version
-* Atomic and Molecular Line List Generator (linemake).
-* NLTE grids: Lind+2011.
-* Evolutionary corrections to carbon abundances by Vini Placco.
+* <a href="https://github.com/alexji/LESSPayne" style="text-decoration:none">LESSPayne</a>.
+* My code for generating 'master' <a href="https://github.com/guilimberg/abund-tables" style="text-decoration:none">abundance tables</a> from LESSPayne/smhr output.
+* <a href="https://www.alexji.com/" style="text-decoration:none">Alex Ji</a>'s <a href="https://github.com/alexji/moog17scat" style="text-decoration:none">2017 MOOG version</a>.
+* Atomic and Molecular Line List Generator (<a href="https://github.com/vmplacco/linemake" style="text-decoration:none">linemake</a>).
+* NLTE grids: <a href="http://www.inspect-stars.com/cp/application.py/" style="text-decoration:none">Lind+2011</a>.
+* Evolutionary <a href="http://vplacco.pythonanywhere.com/" style="text-decoration:none">corrections to carbon abundances</a> by <a href="https://vmplacco.github.io/" style="text-decoration:none">Vini Placco</a>.
+* <a href="https://jinabase.pythonanywhere.com/" style="text-decoration:none">JINAbase for metal-poor stars</a>.
+* <a href="http://sagadatabase.jp/" style="text-decoration:none">SAGA data base for metal-poor stars</a>.
 
 Conferences
 ======
-* 
+* List of <a href="https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/" style="text-decoration:none">Astronomy conferences</a>.
 
 <!---
 <ul>
