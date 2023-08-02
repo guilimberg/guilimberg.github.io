@@ -38,6 +38,10 @@ Conferences
 ======
 * List of <a href="https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/meetings/this-year/" style="text-decoration:none">Astronomy conferences</a>.
 
+Music
+======
+* My favorite lofi mix for coding/working: <a href="https://youtu.be/LqP6hZRZqOA" style="text-decoration:none">4am coding</a>.
+
 <!---
 <ul>
   <h2>Courses:</h2>
