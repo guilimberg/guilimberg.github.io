@@ -13,7 +13,7 @@ I’m a final-year PhD student (or ‘candidate’) in Astronomy at Universidade
 </p>
 
 <p align="justify">
-For the 2022/23 academic year, I’m staying as a visitor at University of Chicago working with Prof. <a href="https://www.alexji.com/" style="text-decoration: none">Alex Ji</a>’s Near-field Cosmology group.
+For the 2022/23 academic year, I’m at University of Chicago working with Prof. <a href="https://www.alexji.com/" style="text-decoration: none">Alex Ji</a>.
 </p>
 
 <p align="justify">
