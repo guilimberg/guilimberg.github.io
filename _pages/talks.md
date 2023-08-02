@@ -5,7 +5,7 @@ permalink: /talks/
 
 ------
 <p align="justify">
-I have given many talks at different places (see CV). Here are some of which were recorded.
+I have given many talks at different places (see <a href="https://guilimberg.github.io/cv/" style="text-decoration: none">CV</a>). Here are some of which were recorded.
 </p>
 
 <h2>Carnegie Observatories Lunch Talk Seminar Series</h2>
