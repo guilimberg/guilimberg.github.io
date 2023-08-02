@@ -7,12 +7,6 @@ permalink: /talks/
 <p align="justify">
 I have given many talks at different places (see CV). Here are some of which were recorded.
 </p>
-  
-<style>
-img {
-  float: left;
-}
-</style>
 
 <h2>Carnegie Observatories Lunch Talk Seminar Series</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zBckDgSjY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
