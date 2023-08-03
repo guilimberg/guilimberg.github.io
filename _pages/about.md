@@ -21,7 +21,7 @@ I was born and raised in São Paulo, which is probably why I think Chicago is sm
 </p>
 
 <p align="justify">
-In the US, I’ve recently fallen in love with NYC. Sorry Chicago, but you truly are too small for me.
+Also, I’ve recently fallen in love with NYC. Sorry Chicago, but you truly are too small for me.
 </p>
 
 Contact
