@@ -38,6 +38,7 @@ Data
 ======
 * <a href="https://www.star.bris.ac.uk/~mbt/topcat/" style="text-decoration:none">TOPCAT</a> download.
 * <a href="https://gaia.aip.de/" style="text-decoration:none">Gaia@AIP</a> service.
+* Web-based plot digitizer: <a href="https://apps.automeris.io/wpd/" style="text-decoration:none">automeris.io</a>.
 
 Codes
 ======
