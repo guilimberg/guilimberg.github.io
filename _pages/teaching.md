@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-permalink: /teaching/
+permalink: /resources/
 ---
 
 ------
