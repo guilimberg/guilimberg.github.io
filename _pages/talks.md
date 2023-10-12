@@ -1,6 +1,6 @@
 ---
 title: "Media"
-permalink: /talks/
+permalink: /media/
 ---
 
 ------
