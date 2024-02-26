@@ -12,7 +12,18 @@ List of useful resources (mostly for myself).
 
 Journal club
 ======
-* List of papers from the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting</a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+* Discussed papers in the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting</a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+* Papers of interest to near-field cosmology by <a href="https://www.alexji.com/" style="text-decoration:none">Alex Ji</a>.
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2F99rFU6SBNfsmoivtmJyijLhx" style="text-decoration:none">Chemical Evolution</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FGGdLkJOFPLCVvhgfq3L1NSZe" style="text-decoration:none">First Stars</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FxFWTUvnm6IUpjDj2p6p9D7X8" style="text-decoration:none">Globular clusters</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FukNZ0H5yo2yRVwZPM4Efk9yi" style="text-decoration:none">High-redshift</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FojWsYzMXqwFuzBwgdYFliO0z" style="text-decoration:none">Milky Way</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FE6gFqr5KbmwRhImq2smsoSCa" style="text-decoration:none">Nucleosynthesis</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FcxrTLxYFYiR5ohpsCVydsV9M" style="text-decoration:none">r-process + neutron star mergers</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FGTxRuVFQSerZEjvgmZxYO7t9" style="text-decoration:none">Stellar abundances</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FOU2E3D6E8Re16MFZDgJ3zivc" style="text-decoration:none">Stellar streams</a>
+  * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FvTtWuZXYHHTtkvikIpRoFX9w" style="text-decoration:none">Dwarf galaxies</a>
 
 Observing
 ======
