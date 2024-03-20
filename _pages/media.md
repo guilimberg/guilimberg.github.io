@@ -8,10 +8,10 @@ permalink: /media/
 I have given many talks at different places (see <a href="https://guilimberg.github.io/cv/" style="text-decoration: none">CV</a>). Here are some of which were recorded.
 </p>
 
-<h2>Carnegie Observatories Lunch Talk Seminar Series</h2>
+<h2>2023 Carnegie Observatories Lunch Talk Seminar Series</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8zBckDgSjY8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<h2>Cycle of Seminars of the Astronomy Department of IAG/USP</h2>
+<h2>2022 Cycle of Seminars of the Astronomy Department of IAG/USP</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-8H594iImIY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h2>2021 GALAH Science Meeting</h2>
