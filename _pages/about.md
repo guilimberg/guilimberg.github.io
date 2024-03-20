@@ -17,11 +17,7 @@ For the 2022/23 academic year, I stayed at University of Chicago working with Pr
 </p>
 
 <p align="justify">
-I was born and raised in São Paulo, which is probably why I think Chicago is small. Yes, I do like football, but my true love is carnaval. I’m also a really big enthusiast of Brazilian modern music. Checkout my <a href="https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c&nd=1" style="text-decoration: none">Spotify</a> for some of my favorite artists. (:
-</p>
-
-<p align="justify">
-Also, I’ve recently fallen in love with NYC. Sorry Chicago, but you truly are too small for me.
+I was born and raised in São Paulo, which is probably why I think Chicago is small. Yes, I do like (real) football, but my true love is carnaval. I’m also a really big enthusiast of modern Brazilian music. Checkout my <a href="https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c&nd=1" style="text-decoration: none">Spotify</a> for some of my favorite artists. (:
 </p>
 
 Contact
