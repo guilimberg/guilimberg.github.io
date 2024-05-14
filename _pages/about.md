@@ -9,11 +9,11 @@ redirect_from:
 
 ------
 <p align="justify">
-I’m a final-year PhD student (or ‘candidate’) in Astronomy at Universidade de São Paulo (USP) in Brasil under supervision of Prof. <a href="https://bv.fapesp.br/en/pesquisador/4078/silvia-cristina-fernandes-rossi/" style="text-decoration: none">Silvia Rossi</a>. My research focuses on the field of Galactic Archaeology, but mostly on the Milky Way’s halo, including metal-poor stars, stellar streams and overdensities, globular clusters, and dwarf galaxies. After having 'Galactic and extragalactic astrophysics' classes with Prof. <a href="http://www.astro.iag.usp.br/~pcoelho/" style="text-decoration: none">Paula Coelho</a> and reading Cris Chiappini's article on the <a href="https://drive.google.com/file/d/1X0c73WWPZ5eCieziwhk7rPKvDwvDHFJS/view?usp=sharing" style="text-decoration: none">formation of our Galaxy</a> still as an undergrad, I became fascinated by how we can learn about galaxy evolution using the Milky Way and its satellites as nearby laboratories. 
+I’m a final-year PhD candidate in Astronomy at Universidade de São Paulo (USP) in Brasil with Prof. <a href="https://bv.fapesp.br/en/pesquisador/4078/silvia-cristina-fernandes-rossi/" style="text-decoration: none">Silvia Rossi</a>. I also spent a whole year at University of Chicago with Prof. <a href="https://www.alexji.com/" style="text-decoration: none">Alex Ji</a>. My research focuses on Galactic Archaeology, but mostly on the Milky Way’s halo, including metal-poor stars, stellar streams and overdensities, globular clusters, and dwarf galaxies. After having 'Galactic and extragalactic astrophysics' classes with Prof. <a href="http://www.astro.iag.usp.br/~pcoelho/" style="text-decoration: none">Paula Coelho</a> and reading Cris Chiappini's article on the <a href="https://drive.google.com/file/d/1X0c73WWPZ5eCieziwhk7rPKvDwvDHFJS/view?usp=sharing" style="text-decoration: none">formation of our Galaxy</a> as an undergrad, I became fascinated by how we can learn about galaxy evolution using the Milky Way and its satellites as nearby laboratories. 
 </p>
 
 <p align="justify">
-For the 2022/23 academic year, I stayed at University of Chicago working with Prof. <a href="https://www.alexji.com/" style="text-decoration: none">Alex Ji</a>.
+Starting October 2024, I will be a <a href="https://kavlicosmo.uchicago.edu/kicp-fellowship/" style="text-decoration: none">KICP Postdoctoral Fellow</a> at UChicago!
 </p>
 
 <p align="justify">
