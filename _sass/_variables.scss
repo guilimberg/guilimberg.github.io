@@ -47,6 +47,7 @@ $type-size-8                : 0.625em;  // ~10px
    Colors
    ========================================================================== */
 
+$black                      : #000000;
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
@@ -59,7 +60,7 @@ $code-background-color      : mix(#000, $background-color, 15%);
 $code-background-color-dark : mix(#000, $background-color, 20%);
 $text-color                 : #3b3b3b;
 $border-color               : #dbb002;
-$masthead-color             : #000000; /*#212121;*/
+$masthead-color             : $black; /*#212121;*/
 
 /*
 $body-color                 : #fff;
