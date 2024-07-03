@@ -17,7 +17,7 @@ Starting October 2024, I will be a <a href="https://kavlicosmo.uchicago.edu/kicp
 </p>
 
 <p align="justify">
-I was born and raised in São Paulo, which is probably why I think Chicago is small. Yes, I do like (real) football, but my true love is carnaval. I’m also a really big enthusiast of modern Brazilian music. Checkout my <a href="https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c&nd=1" style="text-decoration: none">Spotify</a> for some of my favorite artists. (:
+I was born and raised in São Paulo, which is probably why I think Chicago is small. Yes, I do like (real) football, but my true love is carnaval. I’m also a really big enthusiast of modern Brazilian music. Checkout <a href="https://open.spotify.com/user/7gyzjytyu5wjfox7fx81xt0wk?si=ad336202a9af490c&nd=1" style="text-decoration: none">my Spotify</a> for some of my favorite artists. (:
 </p>
 
 Contact
