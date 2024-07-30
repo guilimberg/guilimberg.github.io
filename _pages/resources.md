@@ -12,7 +12,7 @@ List of useful resources (mostly for myself).
 
 Journal club
 ======
-* Discussed papers in the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way Brazilian group meeting</a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
+* Discussed papers in the '<a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration:none">Milky Way BR group meeting</a>' kept by <a href="https://amarante.netlify.app/" style="text-decoration:none">João Amarante</a>.
 * Papers of interest to near-field cosmology by <a href="https://www.alexji.com/" style="text-decoration:none">Alex Ji</a>.
   * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2F99rFU6SBNfsmoivtmJyijLhx" style="text-decoration:none">Chemical Evolution</a>
   * <a href="https://feedly.com/i/subscription/feed%2Fhttps%3A%2F%2Ffeedly.com%2Ff%2FGGdLkJOFPLCVvhgfq3L1NSZe" style="text-decoration:none">First Stars</a>
@@ -55,7 +55,7 @@ Codes
 ======
 * My <a href="https://github.com/guilimberg/orbit-calc" style="text-decoration:none">orbit integration code</a> implemented with AGAMA.
 * My implementation of <a href="https://github.com/guilimberg/hdbscan-mc" style="text-decoration:none">HDBSCAN coupled with Monte Carlo</a> resampling.
-* Notebook with <a href="https://colab.research.google.com/drive/1kb3iNy6DmQkbE3IJWIALuyxyTOR5ZwCo?usp=sharing" style="text-decoration:none">Python tools for handling MESA</a> stellar-evolution models.
+* Notebook with <a href="https://colab.research.google.com/drive/1qiC40MwmQWhGjp4sV9PF0L1c7Kv_kT3l?usp=sharing" style="text-decoration:none">Python tools for handling MESA</a> stellar-evolution models.
 * Star cluster <a href="https://github.com/guilimberg/Star_cluster_distribution/tree/main" style="text-decoration:none">sky distribution plot</a> with <i>Gaia</i>'s Milky Way image in the background. 
 
 Conferences
