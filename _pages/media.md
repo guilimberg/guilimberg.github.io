@@ -9,6 +9,9 @@ I have given many talks at different places (see <a href="https://guilimberg.git
 </p>
 
 <h2>2024 UFRGS Department of Astronomy Seminar Series</h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZqpDWsV23Y?si=OM1iBp301WbKy5wK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen></iframe>
+
+<h2>2024 UFRGS Department of Astronomy Seminar Series</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3HttTHc0z8w?si=mKuqoKAufl3bcZ4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <h2>2023 Carnegie Observatories Lunch Talk Seminar Series</h2>
