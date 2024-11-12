@@ -9,7 +9,7 @@ I have given many talks at different places (see <a href="https://guilimberg.git
 </p>
 
 <h2>2024 Cycle of Seminars of the Astronomy Department of IAG/USP</h2>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZqpDWsV23Y?si=OM1iBp301WbKy5wK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZqpDWsV23Y?si=MnosGHH4Fx2--dP-&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>2024 UFRGS Department of Astronomy Seminar Series</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3HttTHc0z8w?si=mKuqoKAufl3bcZ4o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
