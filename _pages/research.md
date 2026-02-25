@@ -5,7 +5,7 @@ title: "Research"
 
 ------
 <p align="justify">
-I’m interested in most things <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021917" style="text-decoration: none">Galactic archaeology</a> (or ‘<a href="https://www.annualreviews.org/doi/10.1146/annurev-astro-082214-122423" style="text-decoration: none">near-field cosmology</a>’), but my esearch mostly focuses on the Galactic halo. The pillar of this discipline is the idea that, given the different properties of the a galaxy's stellar populations, it should be possible to reconstruct their distinct formation pathways. Because stars retain a long-term ‘memory’ of their origins in both the chemical compositions of their atmospheres as well as in their kinematics, we can leverage these information to study the formation/evolution of both our Galaxy and its dwarf satellites on a star-by-star basis.
+I’m interested in most things <a href="https://www.annualreviews.org/doi/full/10.1146/annurev-astro-032620-021917" style="text-decoration: none">Galactic Archaeology</a> (or ‘<a href="https://www.annualreviews.org/doi/10.1146/annurev-astro-082214-122423" style="text-decoration: none">near-field cosmology</a>’), but my esearch mostly focuses on the Galactic halo. The pillar of this discipline is that, given the different properties of a galaxy's stellar populations, it should be possible to reconstruct their distinct formation pathways. Because stars retain a long-term ‘memory’ of their origins in both their chemical compositions and kinematics, we can leverage these information to study the formation/evolution of both our Galaxy and its dwarf satellites on a star-by-star basis.
 </p>
 
 <p align="justify">
@@ -14,4 +14,8 @@ Admittedly, I am someone ‘born’ in the <i>Gaia</i> era. Most of what I do re
 
 <p align="justify">
 More specific topics of my interest include metal-poor stars, stellar streams and overdensities, star clusters, dwarf galaxies, including both low- and high-resolution stellar spectroscopy. 
+</p>
+
+<p align="justify">
+People is why we do science. With Hélio Perottoni and <a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration: none">João Amarante</a>, we maintain the **_MilkyWayBR_** group, which is an initiative to bring together Brazilian researchers scattered accross the globe with interest in Galactic Archaeology and ralated topics. We keep a weekly journal club (in PT-BR) and a Slack channel to facilitate discussions and collaborations. Below, participants of our very first _MilkyWayBR_ large meeting in 2026.
 </p>
