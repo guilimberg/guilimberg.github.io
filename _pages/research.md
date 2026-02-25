@@ -17,6 +17,6 @@ More specific topics of my interest include metal-poor stars, stellar streams an
 </p>
 
 <p align="justify">
-People is why we do science. With Hélio Perottoni and <a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration: none">João Amarante</a>, we maintain the **_MilkyWayBR_** group, which is an initiative to bring together Brazilian researchers scattered accross the globe with interest in Galactic Archaeology and ralated topics. We keep a weekly journal club (in PT-BR) and a Slack channel to facilitate discussions and collaborations. Below, participants of our very first _MilkyWayBR_ large meeting in 2026.
+People is why we do science. With Hélio Perottoni and <a href="https://amarante.netlify.app/previous/previousbr/" style="text-decoration: none">João Amarante</a>, we maintain the <i><b>MilkyWayBR</b></i> group, which is an initiative to bring together Brazilian researchers scattered accross the globe with interest in Galactic Archaeology and ralated topics. We keep a weekly journal club (in PT-BR) and a Slack channel to facilitate discussions and collaborations. Below, participants of our very first <i>MilkyWayBR</i> large meeting in 2026.
 </p>
 <img src="mwbr_meeting_2026.png" alt="">
