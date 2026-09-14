@@ -8,7 +8,7 @@ permalink: /media/
 I have given many talks at different places (see <a href="https://guilimberg.github.io/cv/" style="text-decoration: none">CV</a>). Here are some of which were recorded.
 </p>
 
-<h2>2026 Near-Field Cosmology in the Era of Big Data: Local Group and Beyond conference</h2>
+<h2>2026 Near-Field Cosmology in the Era of Big Data conference</h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HW7CGHKPNrw?si=edVyOh9jU5Gow1xI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <h2>2025 Astronomy Seminar Series at Texas A&M</h2>
